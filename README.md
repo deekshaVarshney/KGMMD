@@ -13,6 +13,8 @@ Linux: Will be released soon.
 
 Will be released soon
 
+Link for trained model parameters of MKGITN model on KGMMD dataset: https://drive.google.com/drive/folders/15M7K9zwUO_BQdfs0jYVo2mfiBhLITu6_?usp=sharing
+
 **Train and inference**
 
 For training, edit config.yml and set is_train: True. Run python train.py. Training result will be output to ./training_output.
