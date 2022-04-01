@@ -1,0 +1,605 @@
+[
+    {
+        "client_msg_id": "56c63d55-6d24-4119-b24b-cdd155b6619a",
+        "text": "Hello. How are you doing?",
+        "speaker": "user",
+        "type": "greeting",
+        "ts": "1558362868.000600",
+        "utterance": {
+            "nlg": "Hello. How are you doing?",
+            "false nlg": "",
+            "images": "null",
+            "kb": "null",
+            "aspect": [
+                "hello"
+            ],
+            "sentiment": "pos"
+        }
+    },
+    {
+        "client_msg_id": "1b8d70e7-673a-4050-b7fc-0ba7f22db64d",
+        "text": "Hello dear. It is going well, tell me how should I assist you today?",
+        "speaker": "system",
+        "type": "greeting",
+        "ts": "1558364122.001000",
+        "utterance": {
+            "nlg": "Hello dear. It is going well, tell me how should I assist you today?",
+            "false nlg": "",
+            "images": "null",
+            "kb": "null",
+            "aspect": [
+                "hello",
+                "today"
+            ],
+            "sentiment": "pos"
+        }
+    },
+    {
+        "client_msg_id": "3c48a5c0-f855-4497-82bb-3e8b5f7cebce",
+        "text": "I'm searching for  a single room in alleppey. please?",
+        "speaker": "user",
+        "type": "answer",
+        "ts": "1558364332.001700",
+        "utterance": {
+            "nlg": "I'm searching for  a single room in alleppey. please?",
+            "false nlg": "",
+            "images": "null",
+            "kb": "null",
+            "aspect": [
+                "please",
+                "room"
+            ],
+            "sentiment": "neg"
+        }
+    },
+    {
+        "client_msg_id": "554c18c4-5cc0-4f64-93dd-db550c0cb541",
+        "text": "Have me understand this dates information please! Please, could you tell me about the number of members coming to the hotel?",
+        "speaker": "system",
+        "type": "question",
+        "ts": "1558364450.002700",
+        "utterance": {
+            "nlg": "Have me understand this dates information please! Please, could you tell me about the number of members coming to the hotel?",
+            "false nlg": "",
+            "images": "null",
+            "kb": "null",
+            "aspect": [
+                "please",
+                "information",
+                "number",
+                "dates",
+                "hotel",
+                "members"
+            ],
+            "sentiment": "pos"
+        }
+    },
+    {
+        "client_msg_id": "5a07a19c-8d31-4d61-9829-23e4f254f345",
+        "text": "I want to stay from 27th June to 30th June. 3 Members are there and want a three bedded room. Is it possible?",
+        "speaker": "user",
+        "type": "question",
+        "ts": "1558364848.004600",
+        "utterance": {
+            "nlg": "I want to stay from 27th June to 30th June. 3 Members are there and want a three bedded room. Is it possible?",
+            "false nlg": "",
+            "images": "null",
+            "kb": "null",
+            "aspect": [
+                "want",
+                "june",
+                "stay",
+                "room",
+                "members"
+            ],
+            "sentiment": "neg"
+        }
+    },
+    {
+        "client_msg_id": "cf6a36b7-abc1-4b99-b3f8-dc58d1873646",
+        "text": "yeah of course, give me chance to address you the best results.",
+        "speaker": "system",
+        "type": "answer",
+        "ts": "1558364915.005200",
+        "utterance": {
+            "nlg": "yeah of course, give me chance to address you the best results.",
+            "false nlg": "",
+            "images": "null",
+            "kb": "null",
+            "aspect": [
+                "yeah",
+                "address",
+                "course",
+                "results"
+            ],
+            "sentiment": "pos"
+        }
+    },
+    {
+        "client_msg_id": "e6c6d79b-74e4-4d8c-bd2b-13c8b1023165",
+        "text": "these are the possible ones I can find in my database:  1)   Kadalamma Beach Homestay,  2)   Funky Art Beach House,  3)   Lake Garden Resorts,  4)   Ramada Alleppey,  5)   Aham yoga retreat, ",
+        "speaker": "system",
+        "type": "answer",
+        "ts": "1558364969.005800",
+        "attachments": {
+            "image_url": [
+                "https://q-cf.bstatic.com/images/hotel/max400/133/133212129.jpg",
+                "https://q-cf.bstatic.com/images/hotel/max400/208/208223915.jpg",
+                "https://r-cf.bstatic.com/images/hotel/max400/834/83484100.jpg",
+                "https://r-cf.bstatic.com/images/hotel/max400/172/172440018.jpg",
+                "https://q-cf.bstatic.com/images/hotel/max400/239/239867924.jpg"
+            ]
+        },
+        "utterance": {
+            "nlg": "these are the possible ones I can find in my database:  1)   Kadalamma Beach Homestay,  2)   Funky Art Beach House,  3)   Lake Garden Resorts,  4)   Ramada Alleppey,  5)   Aham yoga retreat, ",
+            "false nlg": "",
+            "images": [
+                "https://q-cf.bstatic.com/images/hotel/max400/133/133212129.jpg",
+                "https://q-cf.bstatic.com/images/hotel/max400/208/208223915.jpg",
+                "https://r-cf.bstatic.com/images/hotel/max400/834/83484100.jpg",
+                "https://r-cf.bstatic.com/images/hotel/max400/172/172440018.jpg",
+                "https://q-cf.bstatic.com/images/hotel/max400/239/239867924.jpg"
+            ],
+            "kb": "null",
+            "aspect": [
+                "resorts",
+                "ramada",
+                "retreat",
+                "house",
+                "lake",
+                "art",
+                "beach",
+                "ones",
+                "homestay",
+                "garden"
+            ],
+            "sentiment": "pos"
+        }
+    },
+    {
+        "client_msg_id": "3d0e4902-fc21-4f38-b5c8-84450dd67bd0",
+        "text": "Ok. Give some images of the last two.",
+        "speaker": "user",
+        "type": "answer",
+        "ts": "1558365029.006600",
+        "utterance": {
+            "nlg": "Ok. Give some images of the last two.",
+            "false nlg": "",
+            "images": "null",
+            "kb": "null",
+            "aspect": [
+                "ok",
+                "images"
+            ],
+            "sentiment": "pos"
+        }
+    },
+    {
+        "client_msg_id": "f2cf5448-f830-48d2-8e40-3b3eb3512b7e",
+        "attachments": {
+            "image_url": [
+                "https://r-cf.bstatic.com/images/hotel/max400/404/40420680.jpg",
+                "https://r-cf.bstatic.com/images/hotel/max400/242/242527839.jpg"
+            ]
+        },
+        "text": "these are some images of the different orientations possible",
+        "ts": "1558365151.007100",
+        "speaker": "system",
+        "type": "answer",
+        "utterance": {
+            "nlg": "these are some images of the different orientations possible",
+            "false nlg": "",
+            "images": [
+                "https://r-cf.bstatic.com/images/hotel/max400/404/40420680.jpg",
+                "https://r-cf.bstatic.com/images/hotel/max400/242/242527839.jpg"
+            ],
+            "kb": "null",
+            "aspect": [
+                "images"
+            ],
+            "sentiment": "pos"
+        }
+    },
+    {
+        "client_msg_id": "2f38b32c-c47e-4ab9-b5b1-acc75808855b",
+        "text": "These are the images of the last hotel.",
+        "speaker": "system",
+        "type": "answer",
+        "ts": "1558365181.007700",
+        "utterance": {
+            "nlg": "These are the images of the last hotel.",
+            "false nlg": "",
+            "images": "null",
+            "kb": "null",
+            "aspect": [
+                "hotel",
+                "images"
+            ],
+            "sentiment": "neg"
+        }
+    },
+    {
+        "client_msg_id": "ea068d76-bb2c-46d4-ac2c-9730937a6da0",
+        "attachments": {
+            "image_url": [
+                "https://r-cf.bstatic.com/images/hotel/max400/234/234162663.jpg",
+                "https://r-cf.bstatic.com/images/hotel/max400/233/233100347.jpg",
+                "https://r-cf.bstatic.com/images/hotel/max400/234/234162698.jpg",
+                "https://q-cf.bstatic.com/images/hotel/max400/233/233102932.jpg",
+                "https://r-cf.bstatic.com/images/hotel/max400/234/234162696.jpg",
+                "https://q-cf.bstatic.com/images/hotel/max400/234/234162704.jpg",
+                "https://q-cf.bstatic.com/images/hotel/max400/234/234162700.jpg"
+            ]
+        },
+        "text": "These are some images of the various possible orientations",
+        "ts": "1558365262.008700",
+        "speaker": "system",
+        "type": "answer",
+        "utterance": {
+            "nlg": "These are some images of the various possible orientations",
+            "false nlg": "",
+            "images": [
+                "https://r-cf.bstatic.com/images/hotel/max400/234/234162663.jpg",
+                "https://r-cf.bstatic.com/images/hotel/max400/233/233100347.jpg",
+                "https://r-cf.bstatic.com/images/hotel/max400/234/234162698.jpg",
+                "https://q-cf.bstatic.com/images/hotel/max400/233/233102932.jpg",
+                "https://r-cf.bstatic.com/images/hotel/max400/234/234162696.jpg",
+                "https://q-cf.bstatic.com/images/hotel/max400/234/234162704.jpg",
+                "https://q-cf.bstatic.com/images/hotel/max400/234/234162700.jpg"
+            ],
+            "kb": "null",
+            "aspect": [
+                "images"
+            ],
+            "sentiment": "pos"
+        }
+    },
+    {
+        "client_msg_id": "11074621-12ab-4f24-9561-bc5cbac73b88",
+        "text": "I like the first one",
+        "speaker": "user",
+        "type": "answer",
+        "ts": "1558365283.009300",
+        "utterance": {
+            "nlg": "I like the first one",
+            "false nlg": "",
+            "images": "null",
+            "kb": "null",
+            "aspect": [
+                "one"
+            ],
+            "sentiment": "pos"
+        }
+    },
+    {
+        "client_msg_id": "8591c915-df7f-491c-813c-b3654191353e",
+        "text": "Please tell me about the  Pets,  Activities,  features please, in detail of the selected room?",
+        "speaker": "user",
+        "type": "question",
+        "ts": "1558365315.009900",
+        "utterance": {
+            "nlg": "Please tell me about the  Pets,  Activities,  features please, in detail of the selected room?",
+            "false nlg": "",
+            "images": "null",
+            "kb": "null",
+            "aspect": [
+                "please",
+                "activities",
+                "features",
+                "pets",
+                "room"
+            ],
+            "sentiment": "pos"
+        }
+    },
+    {
+        "client_msg_id": "17a015d7-6f2d-40da-abe4-0d7f9b2a6f91",
+        "text": "The characteristics you needed are:  Pets:Pets are not allowed.,  Activities:Tour or class about local culture,  Activities:Additional charge,  Activities:Badminton equipment,  Activities:Evening entertainment,  Activities:Water sports facilities (on site,  Activities:Additional charge,  Activities:Entertainment staff,  Activities:Cycling,  Activities:Bicycle rental (additional charge,  Activities:Karaoke,  Activities:Ping-pong,  Activities:Playground,  Activities:Game room,  Activities:Fishing, .",
+        "speaker": "system",
+        "type": "answer",
+        "ts": "1558365449.010400",
+        "utterance": {
+            "nlg": "The characteristics you needed are:  Pets:Pets are not allowed.,  Activities:Tour or class about local culture,  Activities:Additional charge,  Activities:Badminton equipment,  Activities:Evening entertainment,  Activities:Water sports facilities (on site,  Activities:Additional charge,  Activities:Entertainment staff,  Activities:Cycling,  Activities:Bicycle rental (additional charge,  Activities:Karaoke,  Activities:Ping-pong,  Activities:Playground,  Activities:Game room,  Activities:Fishing, .",
+            "false nlg": "",
+            "images": "null",
+            "kb": "null",
+            "aspect": [
+                "culture",
+                "facilities",
+                "activities",
+                "site",
+                "sports",
+                "characteristics",
+                "staff",
+                "game",
+                "playground",
+                "pets",
+                "tour",
+                "entertainment",
+                "room",
+                "evening",
+                "water",
+                "equipment"
+            ],
+            "sentiment": "pos"
+        }
+    },
+    {
+        "client_msg_id": "76afc7a6-ec6d-4fb4-ba0e-a0af27a2241f",
+        "text": "Fabulous dear robot by the fact that it has got Tor or class abot local cltre, Additional charge, Badminton eqipment, Evening entertainment, Water sports facilities (on site, Additional charge, Entertainment staff, Cycling, Bicycle rental (additional charge, Karaoke, Ping-pong, Playgrond, Game room, Fishing facilities in this Hotel room. could indeed you start giving me analogous kind of Hotel room categories, The building where the hotel is located ?",
+        "speaker": "user",
+        "type": "question",
+        "ts": "1558365784.011200",
+        "utterance": {
+            "nlg": "Fabulous dear robot by the fact that it has got Tor or class abot local cltre, Additional charge, Badminton eqipment, Evening entertainment, Water sports facilities (on site, Additional charge, Entertainment staff, Cycling, Bicycle rental (additional charge, Karaoke, Ping-pong, Playgrond, Game room, Fishing facilities in this Hotel room. could indeed you start giving me analogous kind of Hotel room categories, The building where the hotel is located ?",
+            "false nlg": "",
+            "images": "null",
+            "kb": "null",
+            "aspect": [
+                "kind",
+                "facilities",
+                "site",
+                "sports",
+                "staff",
+                "building",
+                "hotel",
+                "entertainment",
+                "room",
+                "evening",
+                "water",
+                "game"
+            ],
+            "sentiment": "pos"
+        }
+    },
+    {
+        "client_msg_id": "ea55ee9c-7cf0-4fe5-adab-2f24c2e4e881",
+        "text": "Please take a look at these images they are so much same:  of The building where the hotel is located ",
+        "speaker": "system",
+        "type": "answer",
+        "ts": "1558365794.011300",
+        "image_url": [
+            "https://q-cf.bstatic.com/images/hotel/max400/135/135129226.jpg",
+            "https://r-cf.bstatic.com/images/hotel/max400/239/23934512.jpg",
+            "https://r-cf.bstatic.com/images/hotel/max400/239/23934510.jpg",
+            "https://r-cf.bstatic.com/images/hotel/max400/239/23934518.jpg",
+            "https://r-cf.bstatic.com/images/hotel/max400/239/23934517.jpg",
+            "https://r-cf.bstatic.com/images/hotel/max400/453/45320097.jpg",
+            "https://q-cf.bstatic.com/images/hotel/max400/135/135130257.jpg",
+            "https://r-cf.bstatic.com/images/hotel/max400/114/114064924.jpg",
+            "https://q-cf.bstatic.com/images/hotel/max400/239/23934500.jpg"
+        ],
+        "utterance": {
+            "nlg": "Please take a look at these images they are so much same:  of The building where the hotel is located ",
+            "false nlg": "",
+            "images": "null",
+            "kb": "null",
+            "aspect": [
+                "please",
+                "look",
+                "building",
+                "images",
+                "hotel"
+            ],
+            "sentiment": "pos"
+        }
+    },
+    {
+        "client_msg_id": "a1bdff32-879f-469c-86a5-6e58952c18db",
+        "text": " I am startled right now by the fact that it has got Bottle of water facilities in this Hotel room. Do you mind telling me about the  general description about this hotel please.",
+        "speaker": "user",
+        "type": "question",
+        "ts": "1558365818.011500",
+        "utterance": {
+            "nlg": " I am startled right now by the fact that it has got Bottle of water facilities in this Hotel room. Do you mind telling me about the  general description about this hotel please.",
+            "false nlg": "",
+            "images": "null",
+            "kb": "null",
+            "aspect": [
+                "facilities",
+                "please",
+                "bottle",
+                "hotel",
+                "mind",
+                "right",
+                "room",
+                "water",
+                "description"
+            ],
+            "sentiment": "pos"
+        }
+    },
+    {
+        "client_msg_id": "366f542b-3b23-4eab-a0c1-10972b923ecc",
+        "text": "Whose specific requirements must be met: Rooms here will provide you with a flat-screen TV, air conditioning and a mini-bar. There is also an electric kettle. Featuring a shower, private bathrooms also come with a hairdryer and a bathrobe. Extras include cable channels. At Ramada Alleppey you will find a restaurant and a sauna, 24-hour front desk and a massage parlor. Other facilities offered include meeting facilities, a tour desk, garden and luggage storage.",
+        "speaker": "system",
+        "type": "answer",
+        "ts": "1558365845.012000",
+        "utterance": {
+            "nlg": "Whose specific requirements must be met: Rooms here will provide you with a flat-screen TV, air conditioning and a mini-bar. There is also an electric kettle. Featuring a shower, private bathrooms also come with a hairdryer and a bathrobe. Extras include cable channels. At Ramada Alleppey you will find a restaurant and a sauna, 24-hour front desk and a massage parlor. Other facilities offered include meeting facilities, a tour desk, garden and luggage storage.",
+            "false nlg": "",
+            "images": "null",
+            "kb": "null",
+            "aspect": [
+                "ramada",
+                "facilities",
+                "rooms",
+                "garden",
+                "storage",
+                "tv",
+                "cable",
+                "shower",
+                "air",
+                "provide",
+                "hairdryer",
+                "come",
+                "bathrooms",
+                "channels",
+                "sauna",
+                "bar",
+                "tour",
+                "hour",
+                "conditioning",
+                "massage",
+                "restaurant",
+                "kettle",
+                "front",
+                "desk"
+            ],
+            "sentiment": "pos"
+        }
+    },
+    {
+        "utterance": {
+            "nlg": "What is the name of the hotel with not many views but very clean and close to the station?",
+            "false nlg": "null",
+            "kb": "Hotel with not many views but very clean and close to the station. Staff in the hotel are just amazing, very helpful and welcoming at all times. Mariam is a start and I want to thank her for taking Care of me and my son during our stay. Managers also very professional at all times.",
+            "images": "null",
+            "aspect": [
+                "name",
+                "station",
+                "clean",
+                "close",
+                "hotel",
+                "views"
+            ],
+            "sentiment_kb": "pos",
+            "sentiment_words": [
+                "clean",
+                "helpful",
+                "professional"
+            ],
+            "sentiment": "pos"
+        },
+        "speaker": "user",
+        "type": "question"
+    },
+    {
+        "utterance": {
+            "nlg": "Hotel with not many views but very clean and close to the station.",
+            "false nlg": "null",
+            "images": "null",
+            "aspect": [
+                "station",
+                "clean",
+                "close",
+                "hotel",
+                "views"
+            ],
+            "kb": "Hotel with not many views but very clean and close to the station. Staff in the hotel are just amazing, very helpful and welcoming at all times. Mariam is a start and I want to thank her for taking Care of me and my son during our stay. Managers also very professional at all times.",
+            "sentiment_kb": "pos",
+            "sentiment_words": [
+                "clean",
+                "helpful",
+                "professional"
+            ],
+            "sentiment": "pos"
+        },
+        "speaker": "system",
+        "type": "answer"
+    },
+    {
+        "utterance": {
+            "nlg": "What was the price of a room that wasn't refunded for a night?",
+            "false nlg": "null",
+            "kb": "Man bad deal here. Room is really really small. Booked on booking.com. for 3 nights. knew right away did not want to stay. .only refunded one night. Buyer beware. Really really bad. Ready to leave without spending even one night. Rip off. This is not three stars",
+            "images": "null",
+            "aspect": [
+                "price",
+                "room",
+                "night"
+            ],
+            "sentiment_kb": "neg",
+            "sentiment_words": [
+                "bad",
+                "small",
+                "beware",
+                "leave"
+            ],
+            "sentiment": "neg"
+        },
+        "speaker": "user",
+        "type": "question"
+    },
+    {
+        "utterance": {
+            "nlg": "only refunded one night.",
+            "false nlg": "null",
+            "images": "null",
+            "aspect": [
+                "one",
+                "night"
+            ],
+            "kb": "Man bad deal here. Room is really really small. Booked on booking.com. for 3 nights. knew right away did not want to stay. .only refunded one night. Buyer beware. Really really bad. Ready to leave without spending even one night. Rip off. This is not three stars",
+            "sentiment_kb": "neg",
+            "sentiment_words": [
+                "bad",
+                "small",
+                "beware",
+                "leave"
+            ],
+            "sentiment": "pos"
+        },
+        "speaker": "system",
+        "type": "answer"
+    },
+    {
+        "client_msg_id": "61232a5e-69ac-4662-b427-0cc56aa4aa59",
+        "text": "It's great.I love  it Awesome!  wow amazing by the fact that it has got Pets are not allowed. facilities in this Hotel room.",
+        "speaker": "user",
+        "type": "answer",
+        "ts": "1558365967.012900",
+        "utterance": {
+            "nlg": "It's great.I love  it Awesome!  wow amazing by the fact that it has got Pets are not allowed. facilities in this Hotel room.",
+            "false nlg": "",
+            "images": "null",
+            "kb": "null",
+            "aspect": [
+                "facilities",
+                "awesome",
+                "great",
+                "pets",
+                "wow",
+                "hotel",
+                "room"
+            ],
+            "sentiment": "pos"
+        }
+    },
+    {
+        "client_msg_id": "35fa384e-654d-4797-b47e-993f8692ef9a",
+        "text": "Thank you for helping me. Thank you for your time today.",
+        "speaker": "user",
+        "type": "exit",
+        "ts": "1558365989.013400",
+        "utterance": {
+            "nlg": "Thank you for helping me. Thank you for your time today.",
+            "false nlg": "",
+            "images": "null",
+            "kb": "null",
+            "aspect": [
+                "thank",
+                "time",
+                "today"
+            ],
+            "sentiment": "pos"
+        }
+    },
+    {
+        "client_msg_id": "54d6432b-1bdb-4954-861e-241f8b474eea",
+        "text": "Glad to know it was helpful. It was nothing",
+        "speaker": "system",
+        "type": "exit",
+        "ts": "1558365994.013700",
+        "utterance": {
+            "nlg": "Glad to know it was helpful. It was nothing",
+            "false nlg": "",
+            "images": "null",
+            "kb": "null",
+            "aspect": [
+                "glad"
+            ],
+            "sentiment": "pos"
+        }
+    }
+]

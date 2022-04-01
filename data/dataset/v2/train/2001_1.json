@@ -1,0 +1,575 @@
+[
+    {
+        "client_msg_id": "56c63d55-6d24-4119-b24b-cdd155b6619a",
+        "text": "Hello.",
+        "speaker": "user",
+        "type": "greeting",
+        "ts": "1558362868.000600",
+        "utterance": {
+            "nlg": "Hello.",
+            "false nlg": "",
+            "images": "null",
+            "kb": "null",
+            "aspect": [
+                "hello"
+            ],
+            "sentiment": "pos"
+        }
+    },
+    {
+        "client_msg_id": "1b8d70e7-673a-4050-b7fc-0ba7f22db64d",
+        "text": "Hello. How may I help you? dear.",
+        "speaker": "system",
+        "type": "greeting",
+        "ts": "1558364122.001000",
+        "utterance": {
+            "nlg": "Hello. How may I help you? dear.",
+            "false nlg": "",
+            "images": "null",
+            "kb": "null",
+            "aspect": [
+                "hello",
+                "help"
+            ],
+            "sentiment": "pos"
+        }
+    },
+    {
+        "client_msg_id": "3c48a5c0-f855-4497-82bb-3e8b5f7cebce",
+        "text": "I am here to check for a single room in alleppey. please?",
+        "speaker": "user",
+        "type": "answer",
+        "ts": "1558364332.001700",
+        "utterance": {
+            "nlg": "I am here to check for a single room in alleppey. please?",
+            "false nlg": "",
+            "images": "null",
+            "kb": "null",
+            "aspect": [
+                "please",
+                "room",
+                "check"
+            ],
+            "sentiment": "neg"
+        }
+    },
+    {
+        "client_msg_id": "554c18c4-5cc0-4f64-93dd-db550c0cb541",
+        "text": "Let me know the dates information please. Can you please tell me how many members will be coming to the hotel.",
+        "speaker": "system",
+        "type": "question",
+        "ts": "1558364450.002700",
+        "utterance": {
+            "nlg": "Let me know the dates information please. Can you please tell me how many members will be coming to the hotel.",
+            "false nlg": "",
+            "images": "null",
+            "kb": "null",
+            "aspect": [
+                "please",
+                "information",
+                "dates",
+                "hotel",
+                "members"
+            ],
+            "sentiment": "pos"
+        }
+    },
+    {
+        "client_msg_id": "5a07a19c-8d31-4d61-9829-23e4f254f345",
+        "text": "I want to stay from 27th June to 30th June. 3 Members are there and want a three bedded room. Is it possible?",
+        "speaker": "user",
+        "type": "question",
+        "ts": "1558364848.004600",
+        "utterance": {
+            "nlg": "I want to stay from 27th June to 30th June. 3 Members are there and want a three bedded room. Is it possible?",
+            "false nlg": "",
+            "images": "null",
+            "kb": "null",
+            "aspect": [
+                "want",
+                "june",
+                "stay",
+                "room",
+                "members"
+            ],
+            "sentiment": "neg"
+        }
+    },
+    {
+        "client_msg_id": "cf6a36b7-abc1-4b99-b3f8-dc58d1873646",
+        "text": "Sorry I am keeping you waiting",
+        "speaker": "system",
+        "type": "answer",
+        "ts": "1558364915.005200",
+        "utterance": {
+            "nlg": "Sorry I am keeping you waiting",
+            "false nlg": "",
+            "images": "null",
+            "kb": "null",
+            "aspect": [
+                "sorry"
+            ],
+            "sentiment": "pos"
+        }
+    },
+    {
+        "client_msg_id": "e6c6d79b-74e4-4d8c-bd2b-13c8b1023165",
+        "text": " Would you mind looking at those Please:  1)   Athens-The Budget wing of Komala Hotel,  2)   Baywatch Beach Resort,  3)   Dream Nest Guest House,  4)   Lake view paddy home,  5)   Kadalamma Beach Homestay, ",
+        "speaker": "system",
+        "type": "answer",
+        "ts": "1558364969.005800",
+        "attachments": {
+            "image_url": [
+                "https://q-cf.bstatic.com/images/hotel/max400/133/133212129.jpg",
+                "https://q-cf.bstatic.com/images/hotel/max400/208/208223915.jpg",
+                "https://r-cf.bstatic.com/images/hotel/max400/834/83484100.jpg",
+                "https://r-cf.bstatic.com/images/hotel/max400/172/172440018.jpg",
+                "https://q-cf.bstatic.com/images/hotel/max400/239/239867924.jpg"
+            ]
+        },
+        "utterance": {
+            "nlg": " Would you mind looking at those Please:  1)   Athens-The Budget wing of Komala Hotel,  2)   Baywatch Beach Resort,  3)   Dream Nest Guest House,  4)   Lake view paddy home,  5)   Kadalamma Beach Homestay, ",
+            "false nlg": "",
+            "images": [
+                "https://q-cf.bstatic.com/images/hotel/max400/133/133212129.jpg",
+                "https://q-cf.bstatic.com/images/hotel/max400/208/208223915.jpg",
+                "https://r-cf.bstatic.com/images/hotel/max400/834/83484100.jpg",
+                "https://r-cf.bstatic.com/images/hotel/max400/172/172440018.jpg",
+                "https://q-cf.bstatic.com/images/hotel/max400/239/239867924.jpg"
+            ],
+            "kb": "null",
+            "aspect": [
+                "please",
+                "guest",
+                "house",
+                "lake",
+                "budget",
+                "view",
+                "resort",
+                "beach",
+                "hotel",
+                "mind",
+                "dream",
+                "home",
+                "homestay"
+            ],
+            "sentiment": "pos"
+        }
+    },
+    {
+        "client_msg_id": "3d0e4902-fc21-4f38-b5c8-84450dd67bd0",
+        "text": "Ok. Give some images of the last two.",
+        "speaker": "user",
+        "type": "answer",
+        "ts": "1558365029.006600",
+        "utterance": {
+            "nlg": "Ok. Give some images of the last two.",
+            "false nlg": "",
+            "images": "null",
+            "kb": "null",
+            "aspect": [
+                "ok",
+                "images"
+            ],
+            "sentiment": "pos"
+        }
+    },
+    {
+        "client_msg_id": "f2cf5448-f830-48d2-8e40-3b3eb3512b7e",
+        "attachments": {
+            "image_url": [
+                "https://q-cf.bstatic.com/images/hotel/max400/239/239867924.jpg",
+                "https://q-cf.bstatic.com/images/hotel/max400/239/239867890.jpg",
+                "https://q-cf.bstatic.com/images/hotel/max400/228/228822297.jpg",
+                "https://q-cf.bstatic.com/images/hotel/max400/228/228822313.jpg",
+                "https://q-cf.bstatic.com/images/hotel/max400/239/239867403.jpg"
+            ]
+        },
+        "text": "I could even probably have found those image orientations for you",
+        "ts": "1558365151.007100",
+        "speaker": "system",
+        "type": "answer",
+        "utterance": {
+            "nlg": "I could even probably have found those image orientations for you",
+            "false nlg": "",
+            "images": [
+                "https://q-cf.bstatic.com/images/hotel/max400/239/239867924.jpg",
+                "https://q-cf.bstatic.com/images/hotel/max400/239/239867890.jpg",
+                "https://q-cf.bstatic.com/images/hotel/max400/228/228822297.jpg",
+                "https://q-cf.bstatic.com/images/hotel/max400/228/228822313.jpg",
+                "https://q-cf.bstatic.com/images/hotel/max400/239/239867403.jpg"
+            ],
+            "kb": "null",
+            "aspect": [
+                "image"
+            ],
+            "sentiment": "neg"
+        }
+    },
+    {
+        "client_msg_id": "2f38b32c-c47e-4ab9-b5b1-acc75808855b",
+        "text": "These are the images of the last hotel.",
+        "speaker": "system",
+        "type": "answer",
+        "ts": "1558365181.007700",
+        "utterance": {
+            "nlg": "These are the images of the last hotel.",
+            "false nlg": "",
+            "images": "null",
+            "kb": "null",
+            "aspect": [
+                "hotel",
+                "images"
+            ],
+            "sentiment": "neg"
+        }
+    },
+    {
+        "client_msg_id": "ea068d76-bb2c-46d4-ac2c-9730937a6da0",
+        "attachments": {
+            "image_url": [
+                "https://q-cf.bstatic.com/images/hotel/max400/222/222617243.jpg"
+            ]
+        },
+        "text": "These image orientations I can find for you",
+        "ts": "1558365262.008700",
+        "speaker": "system",
+        "type": "answer",
+        "utterance": {
+            "nlg": "These image orientations I can find for you",
+            "false nlg": "",
+            "images": [
+                "https://q-cf.bstatic.com/images/hotel/max400/222/222617243.jpg"
+            ],
+            "kb": "null",
+            "aspect": [
+                "image"
+            ],
+            "sentiment": "pos"
+        }
+    },
+    {
+        "client_msg_id": "11074621-12ab-4f24-9561-bc5cbac73b88",
+        "text": "I like the first one",
+        "speaker": "user",
+        "type": "answer",
+        "ts": "1558365283.009300",
+        "utterance": {
+            "nlg": "I like the first one",
+            "false nlg": "",
+            "images": "null",
+            "kb": "null",
+            "aspect": [
+                "one"
+            ],
+            "sentiment": "pos"
+        }
+    },
+    {
+        "client_msg_id": "8591c915-df7f-491c-813c-b3654191353e",
+        "text": "Help me learn everything  Room Amenities,  Pets,  features please, in detail of the selected room?",
+        "speaker": "user",
+        "type": "question",
+        "ts": "1558365315.009900",
+        "utterance": {
+            "nlg": "Help me learn everything  Room Amenities,  Pets,  features please, in detail of the selected room?",
+            "false nlg": "",
+            "images": "null",
+            "kb": "null",
+            "aspect": [
+                "amenities",
+                "please",
+                "features",
+                "help",
+                "pets",
+                "room"
+            ],
+            "sentiment": "pos"
+        }
+    },
+    {
+        "client_msg_id": "17a015d7-6f2d-40da-abe4-0d7f9b2a6f91",
+        "text": "The components you requested are as follows  Room Amenities:Clothes rack,  Pets:Pets are allowed. No extra charges., .",
+        "speaker": "system",
+        "type": "answer",
+        "ts": "1558365449.010400",
+        "utterance": {
+            "nlg": "The components you requested are as follows  Room Amenities:Clothes rack,  Pets:Pets are allowed. No extra charges., .",
+            "false nlg": "",
+            "images": "null",
+            "kb": "null",
+            "aspect": [
+                "amenities",
+                "charges",
+                "pets",
+                "rack",
+                "room"
+            ],
+            "sentiment": "neg"
+        }
+    },
+    {
+        "client_msg_id": "76afc7a6-ec6d-4fb4-ba0e-a0af27a2241f",
+        "text": " oh my god that is stunning by the fact that it has got Pets are allowed. No extra charges. facilities in this Hotel room. Can you show me Hotel rooms of similar type, The swimming pool at or near Lake view paddy home ?",
+        "speaker": "user",
+        "type": "question",
+        "ts": "1558365784.011200",
+        "utterance": {
+            "nlg": " oh my god that is stunning by the fact that it has got Pets are allowed. No extra charges. facilities in this Hotel room. Can you show me Hotel rooms of similar type, The swimming pool at or near Lake view paddy home ?",
+            "false nlg": "",
+            "images": "null",
+            "kb": "null",
+            "aspect": [
+                "facilities",
+                "swimming",
+                "charges",
+                "type",
+                "pool",
+                "lake",
+                "rooms",
+                "pets",
+                "god",
+                "view",
+                "hotel",
+                "show",
+                "room",
+                "home"
+            ],
+            "sentiment": "pos"
+        }
+    },
+    {
+        "client_msg_id": "ea55ee9c-7cf0-4fe5-adab-2f24c2e4e881",
+        "text": "And those are the ones which I can find in my directory that resembles as asked for: of The swimming pool at or near Lake view paddy home ",
+        "speaker": "system",
+        "type": "answer",
+        "ts": "1558365794.011300",
+        "image_url": [
+            "https://q-cf.bstatic.com/images/hotel/max400/239/239868669.jpg"
+        ],
+        "utterance": {
+            "nlg": "And those are the ones which I can find in my directory that resembles as asked for: of The swimming pool at or near Lake view paddy home ",
+            "false nlg": "",
+            "images": "null",
+            "kb": "null",
+            "aspect": [
+                "swimming",
+                "pool",
+                "lake",
+                "view",
+                "ones",
+                "home"
+            ],
+            "sentiment": "pos"
+        }
+    },
+    {
+        "client_msg_id": "a1bdff32-879f-469c-86a5-6e58952c18db",
+        "text": "I did not know I am just bewildered with this  by the fact that it has got Tickets to shows/attractions, Additional charge facilities in this Hotel room. can you take me through this info  general description about this hotel please.",
+        "speaker": "user",
+        "type": "question",
+        "ts": "1558365818.011500",
+        "utterance": {
+            "nlg": "I did not know I am just bewildered with this  by the fact that it has got Tickets to shows/attractions, Additional charge facilities in this Hotel room. can you take me through this info  general description about this hotel please.",
+            "false nlg": "",
+            "images": "null",
+            "kb": "null",
+            "aspect": [
+                "info",
+                "facilities",
+                "please",
+                "hotel",
+                "room",
+                "description"
+            ],
+            "sentiment": "pos"
+        }
+    },
+    {
+        "client_msg_id": "366f542b-3b23-4eab-a0c1-10972b923ecc",
+        "text": "The essential specifications are as follows: Guests at Lake view paddy home can enjoy a continental breakfast. Mullakkal Rajarajeswari Temple is a 12-minute walk from the accommodation, while Nehru Trophy Finishing Point is 1.7 miles away. The nearest airport is Cochin International Airport, 53 miles from Lake view paddy home. ",
+        "speaker": "system",
+        "type": "answer",
+        "ts": "1558365845.012000",
+        "utterance": {
+            "nlg": "The essential specifications are as follows: Guests at Lake view paddy home can enjoy a continental breakfast. Mullakkal Rajarajeswari Temple is a 12-minute walk from the accommodation, while Nehru Trophy Finishing Point is 1.7 miles away. The nearest airport is Cochin International Airport, 53 miles from Lake view paddy home. ",
+            "false nlg": "",
+            "images": "null",
+            "kb": "null",
+            "aspect": [
+                "specifications",
+                "temple",
+                "breakfast",
+                "lake",
+                "airport",
+                "guests",
+                "continental",
+                "point",
+                "walk",
+                "view",
+                "nehru",
+                "home",
+                "accommodation"
+            ],
+            "sentiment": "pos"
+        }
+    },
+    {
+        "utterance": {
+            "nlg": "What did the staff at the Chancellor say was important after our long journey from the UK?",
+            "false nlg": "null",
+            "kb": "We stayed at the Chancellor twice in December 2019 at the start and end of our trip to celebrate a BIG Birthday. I have to say this is a really lovely hotel. They strive to achieve a \"family\" feel and this really does work. Right int he middle of the City (with great views of Union Square) it felt like coming home after our busy days out. We had been given and up-grade to a suite in view of it being my birthday and this made it even more special I loved the fact that you could get coffee/tea in the bar and there were biscuits and, sometimes, muffins! We had breakfast there once (additional cost) and really enjoyed it (eggs made fresh to order). The staff were welcoming which was important after our long journey from the UK. I would definitely recommend this hotel and stay there again.",
+            "images": "null",
+            "aspect": [
+                "staff"
+            ],
+            "sentiment_kb": "pos",
+            "sentiment_words": [
+                "birthday",
+                "lovely",
+                "achieve",
+                "special",
+                "breakfast",
+                "important",
+                "journey",
+                "recommend"
+            ],
+            "sentiment": "pos"
+        },
+        "speaker": "user",
+        "type": "question"
+    },
+    {
+        "utterance": {
+            "nlg": " The staff were welcoming which was important after our long journey from the UK.",
+            "false nlg": "null",
+            "images": "null",
+            "aspect": [
+                "staff"
+            ],
+            "kb": "We stayed at the Chancellor twice in December 2019 at the start and end of our trip to celebrate a BIG Birthday. I have to say this is a really lovely hotel. They strive to achieve a \"family\" feel and this really does work. Right int he middle of the City (with great views of Union Square) it felt like coming home after our busy days out. We had been given and up-grade to a suite in view of it being my birthday and this made it even more special I loved the fact that you could get coffee/tea in the bar and there were biscuits and, sometimes, muffins! We had breakfast there once (additional cost) and really enjoyed it (eggs made fresh to order). The staff were welcoming which was important after our long journey from the UK. I would definitely recommend this hotel and stay there again.",
+            "sentiment_kb": "pos",
+            "sentiment_words": [
+                "birthday",
+                "lovely",
+                "achieve",
+                "special",
+                "breakfast",
+                "important",
+                "journey",
+                "recommend"
+            ],
+            "sentiment": "pos"
+        },
+        "speaker": "system",
+        "type": "answer"
+    },
+    {
+        "utterance": {
+            "nlg": "What is a value for Money Hotel?",
+            "false nlg": "null",
+            "kb": "This is essentially a value for Money Hotel. Neat and clean rooms. Food is good. Service is decent. Staff is co-operative and helpful. Good place to stay at a budget price. will definitely like to visit again.",
+            "images": "null",
+            "aspect": [
+                "hotel",
+                "money",
+                "value"
+            ],
+            "sentiment_kb": "pos",
+            "sentiment_words": [
+                "money",
+                "clean",
+                "food",
+                "good",
+                "decent",
+                "helpful",
+                "visit"
+            ],
+            "sentiment": "neg"
+        },
+        "speaker": "user",
+        "type": "question"
+    },
+    {
+        "utterance": {
+            "nlg": "This is essentially a value for Money Hotel.",
+            "false nlg": "null",
+            "images": "null",
+            "aspect": [
+                "hotel",
+                "money",
+                "value"
+            ],
+            "kb": "This is essentially a value for Money Hotel. Neat and clean rooms. Food is good. Service is decent. Staff is co-operative and helpful. Good place to stay at a budget price. will definitely like to visit again.",
+            "sentiment_kb": "pos",
+            "sentiment_words": [
+                "money",
+                "clean",
+                "food",
+                "good",
+                "decent",
+                "helpful",
+                "visit"
+            ],
+            "sentiment": "pos"
+        },
+        "speaker": "system",
+        "type": "answer"
+    },
+    {
+        "client_msg_id": "61232a5e-69ac-4662-b427-0cc56aa4aa59",
+        "text": "It's great.I love  it  you know what I am just staggered by the by the fact that it has got Socket near the bed, Drying rack for clothing, Clothes rack facilities in this Hotel room.",
+        "speaker": "user",
+        "type": "answer",
+        "ts": "1558365967.012900",
+        "utterance": {
+            "nlg": "It's great.I love  it  you know what I am just staggered by the by the fact that it has got Socket near the bed, Drying rack for clothing, Clothes rack facilities in this Hotel room.",
+            "false nlg": "",
+            "images": "null",
+            "kb": "null",
+            "aspect": [
+                "facilities",
+                "great",
+                "rack",
+                "hotel",
+                "room",
+                "bed"
+            ],
+            "sentiment": "pos"
+        }
+    },
+    {
+        "client_msg_id": "35fa384e-654d-4797-b47e-993f8692ef9a",
+        "text": "Thank you for helping me. Thank you for always going above and beyond to ensure the success of a project.",
+        "speaker": "user",
+        "type": "exit",
+        "ts": "1558365989.013400",
+        "utterance": {
+            "nlg": "Thank you for helping me. Thank you for always going above and beyond to ensure the success of a project.",
+            "false nlg": "",
+            "images": "null",
+            "kb": "null",
+            "aspect": [
+                "thank"
+            ],
+            "sentiment": "pos"
+        }
+    },
+    {
+        "client_msg_id": "54d6432b-1bdb-4954-861e-241f8b474eea",
+        "text": "Glad to know it was helpful. Do not mention it",
+        "speaker": "system",
+        "type": "exit",
+        "ts": "1558365994.013700",
+        "utterance": {
+            "nlg": "Glad to know it was helpful. Do not mention it",
+            "false nlg": "",
+            "images": "null",
+            "kb": "null",
+            "aspect": [
+                "glad"
+            ],
+            "sentiment": "pos"
+        }
+    }
+]

@@ -1,0 +1,593 @@
+[
+    {
+        "client_msg_id": "56c63d55-6d24-4119-b24b-cdd155b6619a",
+        "text": "Allow Me to Introduce Myself",
+        "speaker": "user",
+        "type": "greeting",
+        "ts": "1558362868.000600",
+        "utterance": {
+            "nlg": "Allow Me to Introduce Myself",
+            "false nlg": "",
+            "images": "null",
+            "kb": "null",
+            "aspect": [
+                "u",
+                "l",
+                "n"
+            ],
+            "sentiment": "pos"
+        }
+    },
+    {
+        "client_msg_id": "1b8d70e7-673a-4050-b7fc-0ba7f22db64d",
+        "text": "Yes, please. I am a chat bot. I am here to help with hotel/food/furniture/electronics",
+        "speaker": "system",
+        "type": "greeting",
+        "ts": "1558364122.001000",
+        "utterance": {
+            "nlg": "Yes, please. I am a chat bot. I am here to help with hotel/food/furniture/electronics",
+            "false nlg": "",
+            "images": "null",
+            "kb": "null",
+            "aspect": [
+                "please",
+                "furniture",
+                "food",
+                "help",
+                "hotel",
+                "yes"
+            ],
+            "sentiment": "neg"
+        }
+    },
+    {
+        "client_msg_id": "3c48a5c0-f855-4497-82bb-3e8b5f7cebce",
+        "text": "I intend to look for a single room in alleppey. please?",
+        "speaker": "user",
+        "type": "answer",
+        "ts": "1558364332.001700",
+        "utterance": {
+            "nlg": "I intend to look for a single room in alleppey. please?",
+            "false nlg": "",
+            "images": "null",
+            "kb": "null",
+            "aspect": [
+                "please",
+                "room",
+                "look"
+            ],
+            "sentiment": "pos"
+        }
+    },
+    {
+        "client_msg_id": "554c18c4-5cc0-4f64-93dd-db550c0cb541",
+        "text": "Let me know about the dates information please! Could you please tell me about the number of members coming to the hotel.",
+        "speaker": "system",
+        "type": "question",
+        "ts": "1558364450.002700",
+        "utterance": {
+            "nlg": "Let me know about the dates information please! Could you please tell me about the number of members coming to the hotel.",
+            "false nlg": "",
+            "images": "null",
+            "kb": "null",
+            "aspect": [
+                "please",
+                "information",
+                "number",
+                "dates",
+                "hotel",
+                "members"
+            ],
+            "sentiment": "pos"
+        }
+    },
+    {
+        "client_msg_id": "5a07a19c-8d31-4d61-9829-23e4f254f345",
+        "text": "I want to stay from 27th June to 30th June. 3 Members are there and want a three bedded room. Is it possible?",
+        "speaker": "user",
+        "type": "question",
+        "ts": "1558364848.004600",
+        "utterance": {
+            "nlg": "I want to stay from 27th June to 30th June. 3 Members are there and want a three bedded room. Is it possible?",
+            "false nlg": "",
+            "images": "null",
+            "kb": "null",
+            "aspect": [
+                "want",
+                "june",
+                "stay",
+                "room",
+                "members"
+            ],
+            "sentiment": "neg"
+        }
+    },
+    {
+        "client_msg_id": "cf6a36b7-abc1-4b99-b3f8-dc58d1873646",
+        "text": "If you will keep waiting for a while, I'll soon be back.",
+        "speaker": "system",
+        "type": "answer",
+        "ts": "1558364915.005200",
+        "utterance": {
+            "nlg": "If you will keep waiting for a while, I'll soon be back.",
+            "false nlg": "",
+            "images": "null",
+            "kb": "null",
+            "aspect": [
+                "u",
+                "l",
+                "n"
+            ],
+            "sentiment": "pos"
+        }
+    },
+    {
+        "client_msg_id": "e6c6d79b-74e4-4d8c-bd2b-13c8b1023165",
+        "text": "Kindly consider these items from the database. I think they are suitable for you:  1)   New Seaside Residency,  2)   Athens-The Budget wing of Komala Hotel,  3)   Baywatch Beach Resort,  4)   Dream Nest Guest House,  5)   Lake view paddy home, ",
+        "speaker": "system",
+        "type": "answer",
+        "ts": "1558364969.005800",
+        "attachments": {
+            "image_url": [
+                "https://q-cf.bstatic.com/images/hotel/max400/133/133212129.jpg",
+                "https://q-cf.bstatic.com/images/hotel/max400/208/208223915.jpg",
+                "https://r-cf.bstatic.com/images/hotel/max400/834/83484100.jpg",
+                "https://r-cf.bstatic.com/images/hotel/max400/172/172440018.jpg",
+                "https://q-cf.bstatic.com/images/hotel/max400/239/239867924.jpg"
+            ]
+        },
+        "utterance": {
+            "nlg": "Kindly consider these items from the database. I think they are suitable for you:  1)   New Seaside Residency,  2)   Athens-The Budget wing of Komala Hotel,  3)   Baywatch Beach Resort,  4)   Dream Nest Guest House,  5)   Lake view paddy home, ",
+            "false nlg": "",
+            "images": [
+                "https://q-cf.bstatic.com/images/hotel/max400/133/133212129.jpg",
+                "https://q-cf.bstatic.com/images/hotel/max400/208/208223915.jpg",
+                "https://r-cf.bstatic.com/images/hotel/max400/834/83484100.jpg",
+                "https://r-cf.bstatic.com/images/hotel/max400/172/172440018.jpg",
+                "https://q-cf.bstatic.com/images/hotel/max400/239/239867924.jpg"
+            ],
+            "kb": "null",
+            "aspect": [
+                "residency",
+                "seaside",
+                "guest",
+                "house",
+                "lake",
+                "budget",
+                "view",
+                "resort",
+                "beach",
+                "hotel",
+                "dream",
+                "home",
+                "items"
+            ],
+            "sentiment": "pos"
+        }
+    },
+    {
+        "client_msg_id": "3d0e4902-fc21-4f38-b5c8-84450dd67bd0",
+        "text": "Ok. Give some images of the last two.",
+        "speaker": "user",
+        "type": "answer",
+        "ts": "1558365029.006600",
+        "utterance": {
+            "nlg": "Ok. Give some images of the last two.",
+            "false nlg": "",
+            "images": "null",
+            "kb": "null",
+            "aspect": [
+                "ok",
+                "images"
+            ],
+            "sentiment": "pos"
+        }
+    },
+    {
+        "client_msg_id": "f2cf5448-f830-48d2-8e40-3b3eb3512b7e",
+        "attachments": {
+            "image_url": [
+                "https://r-cf.bstatic.com/images/hotel/max400/172/172440018.jpg"
+            ]
+        },
+        "text": "I could even discover those picture orientations for you",
+        "ts": "1558365151.007100",
+        "speaker": "system",
+        "type": "answer",
+        "utterance": {
+            "nlg": "I could even discover those picture orientations for you",
+            "false nlg": "",
+            "images": [
+                "https://r-cf.bstatic.com/images/hotel/max400/172/172440018.jpg"
+            ],
+            "kb": "null",
+            "aspect": [
+                "picture"
+            ],
+            "sentiment": "pos"
+        }
+    },
+    {
+        "client_msg_id": "2f38b32c-c47e-4ab9-b5b1-acc75808855b",
+        "text": "These are the images of the last hotel.",
+        "speaker": "system",
+        "type": "answer",
+        "ts": "1558365181.007700",
+        "utterance": {
+            "nlg": "These are the images of the last hotel.",
+            "false nlg": "",
+            "images": "null",
+            "kb": "null",
+            "aspect": [
+                "hotel",
+                "images"
+            ],
+            "sentiment": "neg"
+        }
+    },
+    {
+        "client_msg_id": "ea068d76-bb2c-46d4-ac2c-9730937a6da0",
+        "attachments": {
+            "image_url": [
+                "https://q-cf.bstatic.com/images/hotel/max400/239/239867924.jpg",
+                "https://q-cf.bstatic.com/images/hotel/max400/239/239867890.jpg",
+                "https://q-cf.bstatic.com/images/hotel/max400/228/228822297.jpg",
+                "https://q-cf.bstatic.com/images/hotel/max400/228/228822313.jpg",
+                "https://q-cf.bstatic.com/images/hotel/max400/239/239867403.jpg"
+            ]
+        },
+        "text": "I could even probably have found those image orientations for you",
+        "ts": "1558365262.008700",
+        "speaker": "system",
+        "type": "answer",
+        "utterance": {
+            "nlg": "I could even probably have found those image orientations for you",
+            "false nlg": "",
+            "images": [
+                "https://q-cf.bstatic.com/images/hotel/max400/239/239867924.jpg",
+                "https://q-cf.bstatic.com/images/hotel/max400/239/239867890.jpg",
+                "https://q-cf.bstatic.com/images/hotel/max400/228/228822297.jpg",
+                "https://q-cf.bstatic.com/images/hotel/max400/228/228822313.jpg",
+                "https://q-cf.bstatic.com/images/hotel/max400/239/239867403.jpg"
+            ],
+            "kb": "null",
+            "aspect": [
+                "image"
+            ],
+            "sentiment": "neg"
+        }
+    },
+    {
+        "client_msg_id": "11074621-12ab-4f24-9561-bc5cbac73b88",
+        "text": "I like the first one",
+        "speaker": "user",
+        "type": "answer",
+        "ts": "1558365283.009300",
+        "utterance": {
+            "nlg": "I like the first one",
+            "false nlg": "",
+            "images": "null",
+            "kb": "null",
+            "aspect": [
+                "one"
+            ],
+            "sentiment": "pos"
+        }
+    },
+    {
+        "client_msg_id": "8591c915-df7f-491c-813c-b3654191353e",
+        "text": "Let me know this  Bathroom,  Outdoors,  features please, in detail of the selected room?",
+        "speaker": "user",
+        "type": "question",
+        "ts": "1558365315.009900",
+        "utterance": {
+            "nlg": "Let me know this  Bathroom,  Outdoors,  features please, in detail of the selected room?",
+            "false nlg": "",
+            "images": "null",
+            "kb": "null",
+            "aspect": [
+                "room",
+                "bathroom",
+                "please",
+                "features"
+            ],
+            "sentiment": "pos"
+        }
+    },
+    {
+        "client_msg_id": "17a015d7-6f2d-40da-abe4-0d7f9b2a6f91",
+        "text": "The information you submitted are as follows  Bathroom:Toilet paper,  Bathroom:Private Bathroom,  Outdoors:Picnic area,  Outdoors:Outdoor furniture,  Outdoors:Garden, .",
+        "speaker": "system",
+        "type": "answer",
+        "ts": "1558365449.010400",
+        "utterance": {
+            "nlg": "The information you submitted are as follows  Bathroom:Toilet paper,  Bathroom:Private Bathroom,  Outdoors:Picnic area,  Outdoors:Outdoor furniture,  Outdoors:Garden, .",
+            "false nlg": "",
+            "images": "null",
+            "kb": "null",
+            "aspect": [
+                "bathroom",
+                "outdoor",
+                "information",
+                "furniture",
+                "toilet",
+                "paper",
+                "area",
+                "garden"
+            ],
+            "sentiment": "pos"
+        }
+    },
+    {
+        "client_msg_id": "76afc7a6-ec6d-4fb4-ba0e-a0af27a2241f",
+        "text": "I did not know I am just bewildered with this  by the fact that it has got Picnic area, Otdoor frnitre, Garden facilities in this Hotel room. I merely love it! Have you had more relevant pics, A bed or beds in a room at Dream Nest Guest House ?",
+        "speaker": "user",
+        "type": "question",
+        "ts": "1558365784.011200",
+        "utterance": {
+            "nlg": "I did not know I am just bewildered with this  by the fact that it has got Picnic area, Otdoor frnitre, Garden facilities in this Hotel room. I merely love it! Have you had more relevant pics, A bed or beds in a room at Dream Nest Guest House ?",
+            "false nlg": "",
+            "images": "null",
+            "kb": "null",
+            "aspect": [
+                "area",
+                "facilities",
+                "guest",
+                "house",
+                "room",
+                "garden",
+                "hotel",
+                "pics",
+                "dream",
+                "bed"
+            ],
+            "sentiment": "pos"
+        }
+    },
+    {
+        "client_msg_id": "ea55ee9c-7cf0-4fe5-adab-2f24c2e4e881",
+        "text": "These are the likely ones which are much in similar Hotel room that I can find in my database:  of A bed or beds in a room at Dream Nest Guest House ",
+        "speaker": "system",
+        "type": "answer",
+        "ts": "1558365794.011300",
+        "image_url": [
+            "https://r-cf.bstatic.com/images/hotel/max400/166/166807956.jpg",
+            "https://r-cf.bstatic.com/images/hotel/max400/166/166313671.jpg",
+            "https://r-cf.bstatic.com/images/hotel/max400/166/166312426.jpg",
+            "https://q-cf.bstatic.com/images/hotel/max400/166/166808226.jpg",
+            "https://q-cf.bstatic.com/images/hotel/max400/166/166312450.jpg",
+            "https://r-cf.bstatic.com/images/hotel/max400/166/166808531.jpg",
+            "https://q-cf.bstatic.com/images/hotel/max400/328/32877849.jpg",
+            "https://r-cf.bstatic.com/images/hotel/max400/166/166312728.jpg",
+            "https://r-cf.bstatic.com/images/hotel/max400/166/166807926.jpg",
+            "https://r-cf.bstatic.com/images/hotel/max400/166/166807894.jpg",
+            "https://r-cf.bstatic.com/images/hotel/max400/166/166808006.jpg",
+            "https://r-cf.bstatic.com/images/hotel/max400/166/166808282.jpg"
+        ],
+        "utterance": {
+            "nlg": "These are the likely ones which are much in similar Hotel room that I can find in my database:  of A bed or beds in a room at Dream Nest Guest House ",
+            "false nlg": "",
+            "images": "null",
+            "kb": "null",
+            "aspect": [
+                "guest",
+                "house",
+                "room",
+                "hotel",
+                "ones",
+                "dream",
+                "bed"
+            ],
+            "sentiment": "pos"
+        }
+    },
+    {
+        "client_msg_id": "a1bdff32-879f-469c-86a5-6e58952c18db",
+        "text": " I am surprised with this by the fact that it has got Shared kitchen facilities in this Hotel room. bot, please guide me through this  general description about this hotel please.",
+        "speaker": "user",
+        "type": "question",
+        "ts": "1558365818.011500",
+        "utterance": {
+            "nlg": " I am surprised with this by the fact that it has got Shared kitchen facilities in this Hotel room. bot, please guide me through this  general description about this hotel please.",
+            "false nlg": "",
+            "images": "null",
+            "kb": "null",
+            "aspect": [
+                "facilities",
+                "please",
+                "kitchen",
+                "hotel",
+                "room",
+                "description"
+            ],
+            "sentiment": "pos"
+        }
+    },
+    {
+        "client_msg_id": "366f542b-3b23-4eab-a0c1-10972b923ecc",
+        "text": "The basic requirements are as follows: Located within just 2,300 feet from the sacred Mullakkal Temple and the famous Ravi Karunakaran Museum, Dream Nest Guest House provides 24-hour front desk for the convenience of the guests. Free WiFi access is available. The fan-cooled rooms come with a work desk. Featuring a shower, private bathroom comes with free toiletries.",
+        "speaker": "system",
+        "type": "answer",
+        "ts": "1558365845.012000",
+        "utterance": {
+            "nlg": "The basic requirements are as follows: Located within just 2,300 feet from the sacred Mullakkal Temple and the famous Ravi Karunakaran Museum, Dream Nest Guest House provides 24-hour front desk for the convenience of the guests. Free WiFi access is available. The fan-cooled rooms come with a work desk. Featuring a shower, private bathroom comes with free toiletries.",
+            "false nlg": "",
+            "images": "null",
+            "kb": "null",
+            "aspect": [
+                "bathroom",
+                "convenience",
+                "access",
+                "shower",
+                "hour",
+                "guest",
+                "house",
+                "toiletries",
+                "come",
+                "temple",
+                "wifi",
+                "museum",
+                "rooms",
+                "fan",
+                "front",
+                "dream",
+                "guests",
+                "desk"
+            ],
+            "sentiment": "pos"
+        }
+    },
+    {
+        "utterance": {
+            "nlg": "What is the location of the Pl\u00e4j Restaurant?",
+            "false nlg": "null",
+            "kb": "The location is ideal for the opera, symphony, restaurants, etc. The unit and the common area are clean, modern, and well-appointed. The staff are friendly, attentive, and helpful. The Pl\u00e4j Restaurant is outstanding. My only complaint is that the Resort 2 wi-fi connection was very problematic, but I was able to use the SFUSD Guest system, so the problem was solved.",
+            "images": "null",
+            "aspect": [
+                "restaurant",
+                "location"
+            ],
+            "sentiment_kb": "pos",
+            "sentiment_words": [
+                "opera",
+                "symphony",
+                "clean",
+                "friendly",
+                "attentive",
+                "helpful",
+                "outstanding"
+            ],
+            "sentiment": "neg"
+        },
+        "speaker": "user",
+        "type": "question"
+    },
+    {
+        "utterance": {
+            "nlg": " The Pl\u00e4j Restaurant is outstanding.",
+            "false nlg": "null",
+            "images": "null",
+            "aspect": [
+                "restaurant"
+            ],
+            "kb": "The location is ideal for the opera, symphony, restaurants, etc. The unit and the common area are clean, modern, and well-appointed. The staff are friendly, attentive, and helpful. The Pl\u00e4j Restaurant is outstanding. My only complaint is that the Resort 2 wi-fi connection was very problematic, but I was able to use the SFUSD Guest system, so the problem was solved.",
+            "sentiment_kb": "pos",
+            "sentiment_words": [
+                "opera",
+                "symphony",
+                "clean",
+                "friendly",
+                "attentive",
+                "helpful",
+                "outstanding"
+            ],
+            "sentiment": "pos"
+        },
+        "speaker": "system",
+        "type": "answer"
+    },
+    {
+        "utterance": {
+            "nlg": "What is the name of the franchise hotel?",
+            "false nlg": "null",
+            "kb": "This is a brand new franchise hotel targeted towards business travellers with a very interesting interior design that may suggest other usage too. Similar to the 268 or Hanting chain but a bit more upscale. It has some interesting features like an iPod loudspeaker player and automatic curtains but not all features are self explanatory, so I stood a while in the dark room until I figured out the lights work how (tip: there is no slot for the keycard to activate the room electrics, just lay it in the pigeon hole in the wall). The location is rather central but difficult to find, it is directly beside a school (#441), while the hotel has street number #417 and the sign for the hotel name on an arch very high above the entrance so easily to be missed. the hotel is not directly at the street one needs to enter a side street. Subway stop Line 7 Changping road about a 10 minutes walk but you should know your way around. There is WIFI but you are limited to one device per room (this is not apparent but if you log in another device the first one gets without notice cut off), also iOS devices (Iphone, iPad) are not always able to connect, the trick is to go on the hotel website then the login page may open or not. Room for improvement. Curtains open and close by tugging them more or less forcefully.",
+            "images": "null",
+            "aspect": [
+                "hotel",
+                "name"
+            ],
+            "sentiment_kb": "pos",
+            "sentiment_words": [
+                "interesting",
+                "interior",
+                "improvement"
+            ],
+            "sentiment": "neg"
+        },
+        "speaker": "user",
+        "type": "question"
+    },
+    {
+        "utterance": {
+            "nlg": "This is a brand new franchise hotel targeted towards business travellers with a very interesting interior design that may suggest other usage too.",
+            "false nlg": "null",
+            "images": "null",
+            "aspect": [
+                "brand",
+                "business",
+                "usage",
+                "interior",
+                "hotel",
+                "design"
+            ],
+            "kb": "This is a brand new franchise hotel targeted towards business travellers with a very interesting interior design that may suggest other usage too. Similar to the 268 or Hanting chain but a bit more upscale. It has some interesting features like an iPod loudspeaker player and automatic curtains but not all features are self explanatory, so I stood a while in the dark room until I figured out the lights work how (tip: there is no slot for the keycard to activate the room electrics, just lay it in the pigeon hole in the wall). The location is rather central but difficult to find, it is directly beside a school (#441), while the hotel has street number #417 and the sign for the hotel name on an arch very high above the entrance so easily to be missed. the hotel is not directly at the street one needs to enter a side street. Subway stop Line 7 Changping road about a 10 minutes walk but you should know your way around. There is WIFI but you are limited to one device per room (this is not apparent but if you log in another device the first one gets without notice cut off), also iOS devices (Iphone, iPad) are not always able to connect, the trick is to go on the hotel website then the login page may open or not. Room for improvement. Curtains open and close by tugging them more or less forcefully.",
+            "sentiment_kb": "pos",
+            "sentiment_words": [
+                "interesting",
+                "interior",
+                "improvement"
+            ],
+            "sentiment": "pos"
+        },
+        "speaker": "system",
+        "type": "answer"
+    },
+    {
+        "client_msg_id": "61232a5e-69ac-4662-b427-0cc56aa4aa59",
+        "text": "It's great.I love  it  oh my god that is stunning by the fact that it has got Balcony, Garden facilities in this Hotel room.",
+        "speaker": "user",
+        "type": "answer",
+        "ts": "1558365967.012900",
+        "utterance": {
+            "nlg": "It's great.I love  it  oh my god that is stunning by the fact that it has got Balcony, Garden facilities in this Hotel room.",
+            "false nlg": "",
+            "images": "null",
+            "kb": "null",
+            "aspect": [
+                "facilities",
+                "great",
+                "balcony",
+                "god",
+                "hotel",
+                "room",
+                "garden"
+            ],
+            "sentiment": "pos"
+        }
+    },
+    {
+        "client_msg_id": "35fa384e-654d-4797-b47e-993f8692ef9a",
+        "text": "Thank you for helping me. Thank you for sharing your opinion. I value your honesty and will respond as quickly as possible.",
+        "speaker": "user",
+        "type": "exit",
+        "ts": "1558365989.013400",
+        "utterance": {
+            "nlg": "Thank you for helping me. Thank you for sharing your opinion. I value your honesty and will respond as quickly as possible.",
+            "false nlg": "",
+            "images": "null",
+            "kb": "null",
+            "aspect": [
+                "thank",
+                "value"
+            ],
+            "sentiment": "pos"
+        }
+    },
+    {
+        "client_msg_id": "54d6432b-1bdb-4954-861e-241f8b474eea",
+        "text": "Glad to know it was helpful. You got it",
+        "speaker": "system",
+        "type": "exit",
+        "ts": "1558365994.013700",
+        "utterance": {
+            "nlg": "Glad to know it was helpful. You got it",
+            "false nlg": "",
+            "images": "null",
+            "kb": "null",
+            "aspect": [
+                "glad"
+            ],
+            "sentiment": "pos"
+        }
+    }
+]

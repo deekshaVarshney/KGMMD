@@ -1,0 +1,587 @@
+[
+    {
+        "client_msg_id": "56c63d55-6d24-4119-b24b-cdd155b6619a",
+        "text": "Good afternoon. I am looking for something in particular, so I was thinking if you could help me. ",
+        "speaker": "user",
+        "type": "greeting",
+        "ts": "1558362868.000600",
+        "utterance": {
+            "nlg": "Good afternoon. I am looking for something in particular, so I was thinking if you could help me. ",
+            "false nlg": "",
+            "images": "null",
+            "kb": "null",
+            "aspect": [
+                "something",
+                "afternoon",
+                "thinking",
+                "help",
+                "good"
+            ],
+            "sentiment": "pos"
+        }
+    },
+    {
+        "client_msg_id": "1b8d70e7-673a-4050-b7fc-0ba7f22db64d",
+        "text": "Very Good afternoon. Oh choose any one of this and continue hotel/food/furniture/electronics.",
+        "speaker": "system",
+        "type": "greeting",
+        "ts": "1558364122.001000",
+        "utterance": {
+            "nlg": "Very Good afternoon. Oh choose any one of this and continue hotel/food/furniture/electronics.",
+            "false nlg": "",
+            "images": "null",
+            "kb": "null",
+            "aspect": [
+                "afternoon",
+                "good",
+                "furniture",
+                "food",
+                "hotel",
+                "one"
+            ],
+            "sentiment": "pos"
+        }
+    },
+    {
+        "client_msg_id": "3c48a5c0-f855-4497-82bb-3e8b5f7cebce",
+        "text": "Hi, Can you show me a few two single room in alleppey. please?",
+        "speaker": "user",
+        "type": "answer",
+        "ts": "1558364332.001700",
+        "utterance": {
+            "nlg": "Hi, Can you show me a few two single room in alleppey. please?",
+            "false nlg": "",
+            "images": "null",
+            "kb": "null",
+            "aspect": [
+                "show",
+                "please",
+                "hi",
+                "room"
+            ],
+            "sentiment": "pos"
+        }
+    },
+    {
+        "client_msg_id": "554c18c4-5cc0-4f64-93dd-db550c0cb541",
+        "text": "Will you have any information regarding the your choice of check in and check out dates! How many people on the way to the hotel.",
+        "speaker": "system",
+        "type": "question",
+        "ts": "1558364450.002700",
+        "utterance": {
+            "nlg": "Will you have any information regarding the your choice of check in and check out dates! How many people on the way to the hotel.",
+            "false nlg": "",
+            "images": "null",
+            "kb": "null",
+            "aspect": [
+                "information",
+                "check",
+                "people",
+                "dates",
+                "way",
+                "choice",
+                "hotel"
+            ],
+            "sentiment": "pos"
+        }
+    },
+    {
+        "client_msg_id": "5a07a19c-8d31-4d61-9829-23e4f254f345",
+        "text": "I want to stay from 20th October to 30th June. Three Members are there and want a three bedded room. Is it possible?",
+        "speaker": "user",
+        "type": "question",
+        "ts": "1558364848.004600",
+        "utterance": {
+            "nlg": "I want to stay from 20th October to 30th June. Three Members are there and want a three bedded room. Is it possible?",
+            "false nlg": "",
+            "images": "null",
+            "kb": "null",
+            "aspect": [
+                "want",
+                "june",
+                "stay",
+                "room",
+                "members"
+            ],
+            "sentiment": "neg"
+        }
+    },
+    {
+        "client_msg_id": "cf6a36b7-abc1-4b99-b3f8-dc58d1873646",
+        "text": "Could you wait for a while?",
+        "speaker": "system",
+        "type": "answer",
+        "ts": "1558364915.005200",
+        "utterance": {
+            "nlg": "Could you wait for a while?",
+            "false nlg": "",
+            "images": "null",
+            "kb": "null",
+            "aspect": [
+                "wait"
+            ],
+            "sentiment": "pos"
+        }
+    },
+    {
+        "client_msg_id": "e6c6d79b-74e4-4d8c-bd2b-13c8b1023165",
+        "text": "Please consider these items in the dataset. I think it would be appropriate for you: 1)   Alleppey Beach Garden,  2) \"  ABRUS HOLIDAYS\",  3)   Sarah Houseboats,  4)   Malayalam Lake Resort,  5)   KAYL PALMYRA, ",
+        "speaker": "system",
+        "type": "answer",
+        "ts": "1558364969.005800",
+        "attachments": {
+            "image_url": [
+                "https://q-cf.bstatic.com/images/hotel/max400/133/133212129.jpg",
+                "https://q-cf.bstatic.com/images/hotel/max400/208/208223915.jpg",
+                "https://r-cf.bstatic.com/images/hotel/max400/834/83484100.jpg",
+                "https://r-cf.bstatic.com/images/hotel/max400/172/172440018.jpg",
+                "https://q-cf.bstatic.com/images/hotel/max400/239/239867924.jpg"
+            ]
+        },
+        "utterance": {
+            "nlg": "Please consider these items in the dataset. I think it would be appropriate for you: 1)   Alleppey Beach Garden,  2) \"  ABRUS HOLIDAYS\",  3)   Sarah Houseboats,  4)   Malayalam Lake Resort,  5)   KAYL PALMYRA, ",
+            "false nlg": "",
+            "images": [
+                "https://q-cf.bstatic.com/images/hotel/max400/133/133212129.jpg",
+                "https://q-cf.bstatic.com/images/hotel/max400/208/208223915.jpg",
+                "https://r-cf.bstatic.com/images/hotel/max400/834/83484100.jpg",
+                "https://r-cf.bstatic.com/images/hotel/max400/172/172440018.jpg",
+                "https://q-cf.bstatic.com/images/hotel/max400/239/239867924.jpg"
+            ],
+            "kb": "null",
+            "aspect": [
+                "please",
+                "lake",
+                "resort",
+                "beach",
+                "houseboats",
+                "items",
+                "garden"
+            ],
+            "sentiment": "pos"
+        }
+    },
+    {
+        "client_msg_id": "3d0e4902-fc21-4f38-b5c8-84450dd67bd0",
+        "text": "Ok.Give some images of the last two.",
+        "speaker": "user",
+        "type": "answer",
+        "ts": "1558365029.006600",
+        "utterance": {
+            "nlg": "Ok.Give some images of the last two.",
+            "false nlg": "",
+            "images": "null",
+            "kb": "null",
+            "aspect": [
+                "ok",
+                "images"
+            ],
+            "sentiment": "pos"
+        }
+    },
+    {
+        "client_msg_id": "f2cf5448-f830-48d2-8e40-3b3eb3512b7e",
+        "attachments": {
+            "image_url": [
+                "https://q-cf.bstatic.com/images/hotel/max400/223/223851562.jpg",
+                "https://r-cf.bstatic.com/images/hotel/max400/223/223851551.jpg"
+            ]
+        },
+        "text": "Feel free to take a closer look lately",
+        "ts": "1558365151.007100",
+        "speaker": "system",
+        "type": "answer",
+        "utterance": {
+            "nlg": "Feel free to take a closer look lately",
+            "false nlg": "",
+            "images": [
+                "https://q-cf.bstatic.com/images/hotel/max400/223/223851562.jpg",
+                "https://r-cf.bstatic.com/images/hotel/max400/223/223851551.jpg"
+            ],
+            "kb": "null",
+            "aspect": [
+                "look"
+            ],
+            "sentiment": "pos"
+        }
+    },
+    {
+        "client_msg_id": "2f38b32c-c47e-4ab9-b5b1-acc75808855b",
+        "text": "These are the images of the last hotel.",
+        "speaker": "system",
+        "type": "answer",
+        "ts": "1558365181.007700",
+        "utterance": {
+            "nlg": "These are the images of the last hotel.",
+            "false nlg": "",
+            "images": "null",
+            "kb": "null",
+            "aspect": [
+                "hotel",
+                "images"
+            ],
+            "sentiment": "neg"
+        }
+    },
+    {
+        "client_msg_id": "ea068d76-bb2c-46d4-ac2c-9730937a6da0",
+        "attachments": {
+            "image_url": [
+                "https://q-cf.bstatic.com/images/hotel/max400/220/220354088.jpg",
+                "https://r-cf.bstatic.com/images/hotel/max400/220/220354102.jpg",
+                "https://r-cf.bstatic.com/images/hotel/max400/220/220354124.jpg",
+                "https://r-cf.bstatic.com/images/hotel/max400/220/220354129.jpg",
+                "https://r-cf.bstatic.com/images/hotel/max400/220/220354109.jpg",
+                "https://r-cf.bstatic.com/images/hotel/max400/220/220354117.jpg",
+                "https://q-cf.bstatic.com/images/hotel/max400/220/220354111.jpg",
+                "https://r-cf.bstatic.com/images/hotel/max400/222/222803379.jpg",
+                "https://r-cf.bstatic.com/images/hotel/max400/222/222748602.jpg",
+                "https://q-cf.bstatic.com/images/hotel/max400/222/222748597.jpg",
+                "https://r-cf.bstatic.com/images/hotel/max400/220/220354114.jpg"
+            ]
+        },
+        "text": "Lately, feel free to have a closer look",
+        "ts": "1558365262.008700",
+        "speaker": "system",
+        "type": "answer",
+        "utterance": {
+            "nlg": "Lately, feel free to have a closer look",
+            "false nlg": "",
+            "images": [
+                "https://q-cf.bstatic.com/images/hotel/max400/220/220354088.jpg",
+                "https://r-cf.bstatic.com/images/hotel/max400/220/220354102.jpg",
+                "https://r-cf.bstatic.com/images/hotel/max400/220/220354124.jpg",
+                "https://r-cf.bstatic.com/images/hotel/max400/220/220354129.jpg",
+                "https://r-cf.bstatic.com/images/hotel/max400/220/220354109.jpg",
+                "https://r-cf.bstatic.com/images/hotel/max400/220/220354117.jpg",
+                "https://q-cf.bstatic.com/images/hotel/max400/220/220354111.jpg",
+                "https://r-cf.bstatic.com/images/hotel/max400/222/222803379.jpg",
+                "https://r-cf.bstatic.com/images/hotel/max400/222/222748602.jpg",
+                "https://q-cf.bstatic.com/images/hotel/max400/222/222748597.jpg",
+                "https://r-cf.bstatic.com/images/hotel/max400/220/220354114.jpg"
+            ],
+            "kb": "null",
+            "aspect": [
+                "look"
+            ],
+            "sentiment": "pos"
+        }
+    },
+    {
+        "client_msg_id": "11074621-12ab-4f24-9561-bc5cbac73b88",
+        "text": "I like the first one",
+        "speaker": "user",
+        "type": "answer",
+        "ts": "1558365283.009300",
+        "utterance": {
+            "nlg": "I like the first one",
+            "false nlg": "",
+            "images": "null",
+            "kb": "null",
+            "aspect": [
+                "one"
+            ],
+            "sentiment": "pos"
+        }
+    },
+    {
+        "client_msg_id": "8591c915-df7f-491c-813c-b3654191353e",
+        "text": "If you have any key information on either the  Outdoors,  Pets,  features please, in detail of the selected room?",
+        "speaker": "user",
+        "type": "question",
+        "ts": "1558365315.009900",
+        "utterance": {
+            "nlg": "If you have any key information on either the  Outdoors,  Pets,  features please, in detail of the selected room?",
+            "false nlg": "",
+            "images": "null",
+            "kb": "null",
+            "aspect": [
+                "please",
+                "information",
+                "features",
+                "key",
+                "pets",
+                "room"
+            ],
+            "sentiment": "pos"
+        }
+    },
+    {
+        "client_msg_id": "17a015d7-6f2d-40da-abe4-0d7f9b2a6f91",
+        "text": "Yup! Accordingly the specifications are listed as follows   Outdoors:Garden,  Pets:Pets are not allowed., .",
+        "speaker": "system",
+        "type": "answer",
+        "ts": "1558365449.010400",
+        "utterance": {
+            "nlg": "Yup! Accordingly the specifications are listed as follows   Outdoors:Garden,  Pets:Pets are not allowed., .",
+            "false nlg": "",
+            "images": "null",
+            "kb": "null",
+            "aspect": [
+                "yup",
+                "specifications",
+                "pets",
+                "garden"
+            ],
+            "sentiment": "pos"
+        }
+    },
+    {
+        "client_msg_id": "76afc7a6-ec6d-4fb4-ba0e-a0af27a2241f",
+        "text": "Thrilling Now this was shocking  I the love it by the fact that it has got Pets are not allowed. facilities in this Hotel room. Bring me some related hotel, The building where the hotel is located ?",
+        "speaker": "user",
+        "type": "question",
+        "ts": "1558365784.011200",
+        "utterance": {
+            "nlg": "Thrilling Now this was shocking  I the love it by the fact that it has got Pets are not allowed. facilities in this Hotel room. Bring me some related hotel, The building where the hotel is located ?",
+            "false nlg": "",
+            "images": "null",
+            "kb": "null",
+            "aspect": [
+                "facilities",
+                "building",
+                "pets",
+                "hotel",
+                "room"
+            ],
+            "sentiment": "pos"
+        }
+    },
+    {
+        "client_msg_id": "ea55ee9c-7cf0-4fe5-adab-2f24c2e4e881",
+        "text": "Kindly consider these items from the database. I think they are suitable for you:  of The building where the hotel is located ",
+        "speaker": "system",
+        "type": "answer",
+        "ts": "1558365794.011300",
+        "image_url": [
+            "https://q-cf.bstatic.com/images/hotel/max400/223/223851308.jpg",
+            "https://q-cf.bstatic.com/images/hotel/max400/814/81468836.jpg",
+            "https://q-cf.bstatic.com/images/hotel/max400/814/81470455.jpg"
+        ],
+        "utterance": {
+            "nlg": "Kindly consider these items from the database. I think they are suitable for you:  of The building where the hotel is located ",
+            "false nlg": "",
+            "images": "null",
+            "kb": "null",
+            "aspect": [
+                "hotel",
+                "building",
+                "items"
+            ],
+            "sentiment": "pos"
+        }
+    },
+    {
+        "client_msg_id": "a1bdff32-879f-469c-86a5-6e58952c18db",
+        "text": "marvellous  you know what I am just staggered by the by the fact that it has got WiFi is available in pblic areas and is free of charge. facilities in this Hotel room. Kindly remind us a little more knowledge about it though  general description about this hotel please.",
+        "speaker": "user",
+        "type": "question",
+        "ts": "1558365818.011500",
+        "utterance": {
+            "nlg": "marvellous  you know what I am just staggered by the by the fact that it has got WiFi is available in pblic areas and is free of charge. facilities in this Hotel room. Kindly remind us a little more knowledge about it though  general description about this hotel please.",
+            "false nlg": "",
+            "images": "null",
+            "kb": "null",
+            "aspect": [
+                "facilities",
+                "please",
+                "though",
+                "wifi",
+                "hotel",
+                "room",
+                "description"
+            ],
+            "sentiment": "pos"
+        }
+    },
+    {
+        "client_msg_id": "366f542b-3b23-4eab-a0c1-10972b923ecc",
+        "text": "Listed below is the general specifications about the Hotel room  Nehru Trophy Finishing Point is 1.7 miles from the accommodation, while Mullakkal Rajarajeswari Temple is 2.6 miles away. The nearest airport is Cochin International, 51 miles from Malayalam Lake Resort, and the property offers a paid airport shuttle service.  Located in Alleppey, 1.7 miles from Nehru Trophy Boat Race, Malayalam Lake Resort provides accommodations with a restaurant, private parking and a garden. Among the facilities at this property are room service and a tour desk, along with free WiFi throughout the property. The hotel features family rooms.",
+        "speaker": "system",
+        "type": "answer",
+        "ts": "1558365845.012000",
+        "utterance": {
+            "nlg": "Listed below is the general specifications about the Hotel room  Nehru Trophy Finishing Point is 1.7 miles from the accommodation, while Mullakkal Rajarajeswari Temple is 2.6 miles away. The nearest airport is Cochin International, 51 miles from Malayalam Lake Resort, and the property offers a paid airport shuttle service.  Located in Alleppey, 1.7 miles from Nehru Trophy Boat Race, Malayalam Lake Resort provides accommodations with a restaurant, private parking and a garden. Among the facilities at this property are room service and a tour desk, along with free WiFi throughout the property. The hotel features family rooms.",
+            "false nlg": "",
+            "images": "null",
+            "kb": "null",
+            "aspect": [
+                "facilities",
+                "boat",
+                "features",
+                "wifi",
+                "rooms",
+                "accommodations",
+                "resort",
+                "offers",
+                "hotel",
+                "garden",
+                "specifications",
+                "family",
+                "airport",
+                "room",
+                "temple",
+                "shuttle",
+                "point",
+                "service",
+                "nehru",
+                "tour",
+                "parking",
+                "lake",
+                "restaurant",
+                "accommodation",
+                "desk"
+            ],
+            "sentiment": "pos"
+        }
+    },
+    {
+        "utterance": {
+            "nlg": "What was the price for what it is?",
+            "false nlg": "null",
+            "kb": "The room itself was fine. But the lobby is unwelcoming and the hallways are not very clean. Also, the TV is complicated to get working properly. I had to go back down to the lobby to ask someone to come and help me get it working - and they never bothered to come - so I had to figure it out on my own. Expensive for what it is.",
+            "images": "null",
+            "aspect": [
+                "price"
+            ],
+            "sentiment_kb": "neg",
+            "sentiment_words": [
+                "complicated"
+            ],
+            "sentiment": "pos"
+        },
+        "speaker": "user",
+        "type": "question"
+    },
+    {
+        "utterance": {
+            "nlg": " Expensive for what it is.",
+            "false nlg": "null",
+            "images": "null",
+            "aspect": [
+                "u",
+                "l",
+                "n"
+            ],
+            "kb": "The room itself was fine. But the lobby is unwelcoming and the hallways are not very clean. Also, the TV is complicated to get working properly. I had to go back down to the lobby to ask someone to come and help me get it working - and they never bothered to come - so I had to figure it out on my own. Expensive for what it is.",
+            "sentiment_kb": "neg",
+            "sentiment_words": [
+                "complicated"
+            ],
+            "sentiment": "pos"
+        },
+        "speaker": "system",
+        "type": "answer"
+    },
+    {
+        "utterance": {
+            "nlg": "What did the frontdesk say was a problem?",
+            "false nlg": "null",
+            "kb": "Bad hotel where should I start...First we came in at 12:30 am this was no problem but then nobody spoke English. We thought this could happen because it was midnight and English staff is hard to find. Then we went to the room and this whas not at all what we expected or payed for. The room was as small as a closet the shower was dirty and small so was the whole bathroom en our window whas a inside window with a vieuw in the lobby! Because we arrived late we diden't want to go downstairs again to tell them about this.Next day we went down to complain about the window, small room and dirty bathroom. When we told the frontdesk nobody understood us it took us an hour to explain and once they understood they said that it was hour problem and if we want a room with window ect. then we should pay more...Besides all of this they show pictures of the restaurant witch they don't even have. They had this restaurant 4 years ago now they you can eat in the poor lobby.Conclusion:Don't go here for the same money you can go to Novehotel and book a room without a window (at least they inform you).",
+            "images": "null",
+            "aspect": [
+                "problem"
+            ],
+            "sentiment_kb": "neg",
+            "sentiment_words": [
+                "bad",
+                "problem",
+                "spoke",
+                "small",
+                "dirty",
+                "late",
+                "complain",
+                "witch"
+            ],
+            "sentiment": "neg"
+        },
+        "speaker": "user",
+        "type": "question"
+    },
+    {
+        "utterance": {
+            "nlg": " When we told the frontdesk nobody understood us it took us an hour to explain and once they understood they said that it was hour problem and if we want a room with window ect.",
+            "false nlg": "null",
+            "images": "null",
+            "aspect": [
+                "window",
+                "hour",
+                "want",
+                "room",
+                "problem"
+            ],
+            "kb": "Bad hotel where should I start...First we came in at 12:30 am this was no problem but then nobody spoke English. We thought this could happen because it was midnight and English staff is hard to find. Then we went to the room and this whas not at all what we expected or payed for. The room was as small as a closet the shower was dirty and small so was the whole bathroom en our window whas a inside window with a vieuw in the lobby! Because we arrived late we diden't want to go downstairs again to tell them about this.Next day we went down to complain about the window, small room and dirty bathroom. When we told the frontdesk nobody understood us it took us an hour to explain and once they understood they said that it was hour problem and if we want a room with window ect. then we should pay more...Besides all of this they show pictures of the restaurant witch they don't even have. They had this restaurant 4 years ago now they you can eat in the poor lobby.Conclusion:Don't go here for the same money you can go to Novehotel and book a room without a window (at least they inform you).",
+            "sentiment_kb": "neg",
+            "sentiment_words": [
+                "bad",
+                "problem",
+                "spoke",
+                "small",
+                "dirty",
+                "late",
+                "complain",
+                "witch"
+            ],
+            "sentiment": "neg"
+        },
+        "speaker": "system",
+        "type": "answer"
+    },
+    {
+        "client_msg_id": "61232a5e-69ac-4662-b427-0cc56aa4aa59",
+        "text": "It's great.I love  it exciting Now this was shocking  I the love it by the fact that it has got Pets are not allowed. facilities in this Hotel room.",
+        "speaker": "user",
+        "type": "answer",
+        "ts": "1558365967.012900",
+        "utterance": {
+            "nlg": "It's great.I love  it exciting Now this was shocking  I the love it by the fact that it has got Pets are not allowed. facilities in this Hotel room.",
+            "false nlg": "",
+            "images": "null",
+            "kb": "null",
+            "aspect": [
+                "facilities",
+                "great",
+                "pets",
+                "hotel",
+                "room"
+            ],
+            "sentiment": "pos"
+        }
+    },
+    {
+        "client_msg_id": "35fa384e-654d-4797-b47e-993f8692ef9a",
+        "text": "Thank you for helping me.  Thanks!",
+        "speaker": "user",
+        "type": "exit",
+        "ts": "1558365989.013400",
+        "utterance": {
+            "nlg": "Thank you for helping me.  Thanks!",
+            "false nlg": "",
+            "images": "null",
+            "kb": "null",
+            "aspect": [
+                "thank",
+                "thanks"
+            ],
+            "sentiment": "pos"
+        }
+    },
+    {
+        "client_msg_id": "54d6432b-1bdb-4954-861e-241f8b474eea",
+        "text": "Glad to know it was helpful. SURE, YEP",
+        "speaker": "system",
+        "type": "exit",
+        "ts": "1558365994.013700",
+        "utterance": {
+            "nlg": "Glad to know it was helpful. SURE, YEP",
+            "false nlg": "",
+            "images": "null",
+            "kb": "null",
+            "aspect": [
+                "sure",
+                "glad"
+            ],
+            "sentiment": "pos"
+        }
+    }
+]

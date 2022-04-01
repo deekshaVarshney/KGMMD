@@ -1,0 +1,585 @@
+[
+    {
+        "client_msg_id": "56c63d55-6d24-4119-b24b-cdd155b6619a",
+        "text": "Good morning bot. I want you to help me please, and I know that you are the only one who can help me. So please. ",
+        "speaker": "user",
+        "type": "greeting",
+        "ts": "1558362868.000600",
+        "utterance": {
+            "nlg": "Good morning bot. I want you to help me please, and I know that you are the only one who can help me. So please. ",
+            "false nlg": "",
+            "images": "null",
+            "kb": "null",
+            "aspect": [
+                "please",
+                "good",
+                "morning",
+                "want",
+                "help",
+                "one"
+            ],
+            "sentiment": "pos"
+        }
+    },
+    {
+        "client_msg_id": "1b8d70e7-673a-4050-b7fc-0ba7f22db64d",
+        "text": "Good morning arelax. You are at the right place. Stop thinking. Tell me how should I help. ",
+        "speaker": "system",
+        "type": "greeting",
+        "ts": "1558364122.001000",
+        "utterance": {
+            "nlg": "Good morning arelax. You are at the right place. Stop thinking. Tell me how should I help. ",
+            "false nlg": "",
+            "images": "null",
+            "kb": "null",
+            "aspect": [
+                "place",
+                "morning",
+                "thinking",
+                "help",
+                "right",
+                "good"
+            ],
+            "sentiment": "neg"
+        }
+    },
+    {
+        "client_msg_id": "3c48a5c0-f855-4497-82bb-3e8b5f7cebce",
+        "text": "I'm really curious to searching for single room in alleppey. please?",
+        "speaker": "user",
+        "type": "answer",
+        "ts": "1558364332.001700",
+        "utterance": {
+            "nlg": "I'm really curious to searching for single room in alleppey. please?",
+            "false nlg": "",
+            "images": "null",
+            "kb": "null",
+            "aspect": [
+                "please",
+                "room"
+            ],
+            "sentiment": "neg"
+        }
+    },
+    {
+        "client_msg_id": "554c18c4-5cc0-4f64-93dd-db550c0cb541",
+        "text": "What are the date of travel of yours please! determine the number of visitors to the room.",
+        "speaker": "system",
+        "type": "question",
+        "ts": "1558364450.002700",
+        "utterance": {
+            "nlg": "What are the date of travel of yours please! determine the number of visitors to the room.",
+            "false nlg": "",
+            "images": "null",
+            "kb": "null",
+            "aspect": [
+                "please",
+                "date",
+                "number",
+                "room",
+                "travel"
+            ],
+            "sentiment": "pos"
+        }
+    },
+    {
+        "client_msg_id": "5a07a19c-8d31-4d61-9829-23e4f254f345",
+        "text": "I am travelling for 5 days from 21st of April till 26th of April.",
+        "speaker": "user",
+        "type": "question",
+        "ts": "1558364848.004600",
+        "utterance": {
+            "nlg": "I am travelling for 5 days from 21st of April till 26th of April.",
+            "false nlg": "",
+            "images": "null",
+            "kb": "null",
+            "aspect": [
+                "days"
+            ],
+            "sentiment": "neg"
+        }
+    },
+    {
+        "client_msg_id": "cf6a36b7-abc1-4b99-b3f8-dc58d1873646",
+        "text": "bear with me and then I'll help you.",
+        "speaker": "system",
+        "type": "answer",
+        "ts": "1558364915.005200",
+        "utterance": {
+            "nlg": "bear with me and then I'll help you.",
+            "false nlg": "",
+            "images": "null",
+            "kb": "null",
+            "aspect": [
+                "help"
+            ],
+            "sentiment": "pos"
+        }
+    },
+    {
+        "client_msg_id": "e6c6d79b-74e4-4d8c-bd2b-13c8b1023165",
+        "text": "Kindly share, pay attention to the following photos taken:  1)   Mugal Beach Resort,  2)   Cosy Houseboats,  3)   SAHELI BACKWATERS,  4)   Alleppey Beach Garden,  5) \"  ABRUS HOLIDAYS\", ",
+        "speaker": "system",
+        "type": "answer",
+        "ts": "1558364969.005800",
+        "attachments": {
+            "image_url": [
+                "https://q-cf.bstatic.com/images/hotel/max400/133/133212129.jpg",
+                "https://q-cf.bstatic.com/images/hotel/max400/208/208223915.jpg",
+                "https://r-cf.bstatic.com/images/hotel/max400/834/83484100.jpg",
+                "https://r-cf.bstatic.com/images/hotel/max400/172/172440018.jpg",
+                "https://q-cf.bstatic.com/images/hotel/max400/239/239867924.jpg"
+            ]
+        },
+        "utterance": {
+            "nlg": "Kindly share, pay attention to the following photos taken:  1)   Mugal Beach Resort,  2)   Cosy Houseboats,  3)   SAHELI BACKWATERS,  4)   Alleppey Beach Garden,  5) \"  ABRUS HOLIDAYS\", ",
+            "false nlg": "",
+            "images": [
+                "https://q-cf.bstatic.com/images/hotel/max400/133/133212129.jpg",
+                "https://q-cf.bstatic.com/images/hotel/max400/208/208223915.jpg",
+                "https://r-cf.bstatic.com/images/hotel/max400/834/83484100.jpg",
+                "https://r-cf.bstatic.com/images/hotel/max400/172/172440018.jpg",
+                "https://q-cf.bstatic.com/images/hotel/max400/239/239867924.jpg"
+            ],
+            "kb": "null",
+            "aspect": [
+                "photos",
+                "share",
+                "resort",
+                "beach",
+                "houseboats",
+                "garden"
+            ],
+            "sentiment": "pos"
+        }
+    },
+    {
+        "client_msg_id": "3d0e4902-fc21-4f38-b5c8-84450dd67bd0",
+        "text": "What if you can show me some more images from the fourth and fifth hotel room please.",
+        "speaker": "user",
+        "type": "answer",
+        "ts": "1558365029.006600",
+        "utterance": {
+            "nlg": "What if you can show me some more images from the fourth and fifth hotel room please.",
+            "false nlg": "",
+            "images": "null",
+            "kb": "null",
+            "aspect": [
+                "please",
+                "images",
+                "hotel",
+                "show",
+                "room"
+            ],
+            "sentiment": "pos"
+        }
+    },
+    {
+        "client_msg_id": "f2cf5448-f830-48d2-8e40-3b3eb3512b7e",
+        "attachments": {
+            "image_url": [
+                "https://r-cf.bstatic.com/images/hotel/max400/789/78945618.jpg",
+                "https://q-cf.bstatic.com/images/hotel/max400/788/78815254.jpg",
+                "https://r-cf.bstatic.com/images/hotel/max400/788/78815563.jpg",
+                "https://r-cf.bstatic.com/images/hotel/max400/786/78641882.jpg",
+                "https://q-cf.bstatic.com/images/hotel/max400/786/78641885.jpg"
+            ]
+        },
+        "text": "My searches show those pictures, take a look",
+        "ts": "1558365151.007100",
+        "speaker": "system",
+        "type": "answer",
+        "utterance": {
+            "nlg": "My searches show those pictures, take a look",
+            "false nlg": "",
+            "images": [
+                "https://r-cf.bstatic.com/images/hotel/max400/789/78945618.jpg",
+                "https://q-cf.bstatic.com/images/hotel/max400/788/78815254.jpg",
+                "https://r-cf.bstatic.com/images/hotel/max400/788/78815563.jpg",
+                "https://r-cf.bstatic.com/images/hotel/max400/786/78641882.jpg",
+                "https://q-cf.bstatic.com/images/hotel/max400/786/78641885.jpg"
+            ],
+            "kb": "null",
+            "aspect": [
+                "show",
+                "look",
+                "pictures"
+            ],
+            "sentiment": "pos"
+        }
+    },
+    {
+        "client_msg_id": "2f38b32c-c47e-4ab9-b5b1-acc75808855b",
+        "text": "These are the images of the fifth hotel room.",
+        "speaker": "system",
+        "type": "answer",
+        "ts": "1558365181.007700",
+        "utterance": {
+            "nlg": "These are the images of the fifth hotel room.",
+            "false nlg": "",
+            "images": "null",
+            "kb": "null",
+            "aspect": [
+                "hotel",
+                "room",
+                "images"
+            ],
+            "sentiment": "pos"
+        }
+    },
+    {
+        "client_msg_id": "ea068d76-bb2c-46d4-ac2c-9730937a6da0",
+        "attachments": {
+            "image_url": [
+                "https://q-cf.bstatic.com/images/hotel/max400/164/164804087.jpg",
+                "https://q-cf.bstatic.com/images/hotel/max400/164/164804342.jpg",
+                "https://q-cf.bstatic.com/images/hotel/max400/164/164804438.jpg"
+            ]
+        },
+        "text": "My search results show these pictures and have a look",
+        "ts": "1558365262.008700",
+        "speaker": "system",
+        "type": "answer",
+        "utterance": {
+            "nlg": "My search results show these pictures and have a look",
+            "false nlg": "",
+            "images": [
+                "https://q-cf.bstatic.com/images/hotel/max400/164/164804087.jpg",
+                "https://q-cf.bstatic.com/images/hotel/max400/164/164804342.jpg",
+                "https://q-cf.bstatic.com/images/hotel/max400/164/164804438.jpg"
+            ],
+            "kb": "null",
+            "aspect": [
+                "look",
+                "pictures",
+                "results",
+                "show",
+                "search"
+            ],
+            "sentiment": "pos"
+        }
+    },
+    {
+        "client_msg_id": "11074621-12ab-4f24-9561-bc5cbac73b88",
+        "text": "I think I am fond of the first one.",
+        "speaker": "user",
+        "type": "answer",
+        "ts": "1558365283.009300",
+        "utterance": {
+            "nlg": "I think I am fond of the first one.",
+            "false nlg": "",
+            "images": "null",
+            "kb": "null",
+            "aspect": [
+                "one"
+            ],
+            "sentiment": "pos"
+        }
+    },
+    {
+        "client_msg_id": "8591c915-df7f-491c-813c-b3654191353e",
+        "text": "That is so amazing, now tell me about   Languages Spoken,  Outdoors,  features please, in detail of the selected room?",
+        "speaker": "user",
+        "type": "question",
+        "ts": "1558365315.009900",
+        "utterance": {
+            "nlg": "That is so amazing, now tell me about   Languages Spoken,  Outdoors,  features please, in detail of the selected room?",
+            "false nlg": "",
+            "images": "null",
+            "kb": "null",
+            "aspect": [
+                "please",
+                "room",
+                "features"
+            ],
+            "sentiment": "pos"
+        }
+    },
+    {
+        "client_msg_id": "17a015d7-6f2d-40da-abe4-0d7f9b2a6f91",
+        "text": "I want to tell that basically these are some of these functionalities   Languages Spoken:German,  Languages Spoken:English,  Languages Spoken:Hindi,  Outdoors:Outdoor furniture,  Outdoors:Beachfront,  Outdoors:Sun deck,  Outdoors:Terrace,  Outdoors:Garden, .",
+        "speaker": "system",
+        "type": "answer",
+        "ts": "1558365449.010400",
+        "utterance": {
+            "nlg": "I want to tell that basically these are some of these functionalities   Languages Spoken:German,  Languages Spoken:English,  Languages Spoken:Hindi,  Outdoors:Outdoor furniture,  Outdoors:Beachfront,  Outdoors:Sun deck,  Outdoors:Terrace,  Outdoors:Garden, .",
+            "false nlg": "",
+            "images": "null",
+            "kb": "null",
+            "aspect": [
+                "outdoor",
+                "terrace",
+                "want",
+                "sun",
+                "deck",
+                "furniture",
+                "garden"
+            ],
+            "sentiment": "pos"
+        }
+    },
+    {
+        "client_msg_id": "76afc7a6-ec6d-4fb4-ba0e-a0af27a2241f",
+        "text": "want you to know it was amazing,  by the fact that it has got Otdoor frnitre, Beachfront, Sn deck, Terrace, Garden facilities in this Hotel room. might you bother exhibiting items in a service to me The sunrise or sunset as seen from the hotel or nearby ?",
+        "speaker": "user",
+        "type": "question",
+        "ts": "1558365784.011200",
+        "utterance": {
+            "nlg": "want you to know it was amazing,  by the fact that it has got Otdoor frnitre, Beachfront, Sn deck, Terrace, Garden facilities in this Hotel room. might you bother exhibiting items in a service to me The sunrise or sunset as seen from the hotel or nearby ?",
+            "false nlg": "",
+            "images": "null",
+            "kb": "null",
+            "aspect": [
+                "facilities",
+                "sunrise",
+                "terrace",
+                "want",
+                "sunset",
+                "deck",
+                "service",
+                "hotel",
+                "nearby",
+                "room",
+                "items",
+                "garden"
+            ],
+            "sentiment": "pos"
+        }
+    },
+    {
+        "client_msg_id": "ea55ee9c-7cf0-4fe5-adab-2f24c2e4e881",
+        "text": "might well you bother looking at all those of you please:  of The sunrise or sunset as seen from the hotel or nearby ",
+        "speaker": "system",
+        "type": "answer",
+        "ts": "1558365794.011300",
+        "image_url": [
+            "https://q-cf.bstatic.com/images/hotel/max400/229/229795983.jpg",
+            "https://q-cf.bstatic.com/images/hotel/max400/229/229796286.jpg"
+        ],
+        "utterance": {
+            "nlg": "might well you bother looking at all those of you please:  of The sunrise or sunset as seen from the hotel or nearby ",
+            "false nlg": "",
+            "images": "null",
+            "kb": "null",
+            "aspect": [
+                "sunrise",
+                "please",
+                "sunset",
+                "hotel",
+                "nearby"
+            ],
+            "sentiment": "pos"
+        }
+    },
+    {
+        "client_msg_id": "a1bdff32-879f-469c-86a5-6e58952c18db",
+        "text": "want to express my feelings now. I am in love with the by the fact that it has got Toilet paper, Towels, Towels/Sheets (extra fee, Bathtb or shower, Private Bathroom, Toilet, Free toiletries, Bathrobe, Shower facilities in this Hotel room. Hey bot, inform me about that as well general description about this hotel please.",
+        "speaker": "user",
+        "type": "question",
+        "ts": "1558365818.011500",
+        "utterance": {
+            "nlg": "want to express my feelings now. I am in love with the by the fact that it has got Toilet paper, Towels, Towels/Sheets (extra fee, Bathtb or shower, Private Bathroom, Toilet, Free toiletries, Bathrobe, Shower facilities in this Hotel room. Hey bot, inform me about that as well general description about this hotel please.",
+            "false nlg": "",
+            "images": "null",
+            "kb": "null",
+            "aspect": [
+                "bathroom",
+                "facilities",
+                "please",
+                "shower",
+                "towels",
+                "want",
+                "room",
+                "toiletries",
+                "toilet",
+                "paper",
+                "hotel",
+                "express",
+                "description"
+            ],
+            "sentiment": "pos"
+        }
+    },
+    {
+        "client_msg_id": "366f542b-3b23-4eab-a0c1-10972b923ecc",
+        "text": "I would like to say that these are actually a couple of the main features Bike hire and car hire are available at this hotel and the area is popular for fishing and canoeing. Nehru Trophy Boat Race is 2.7 mi from Alleppey Beach Garden, while Nehru Trophy Finishing Point is 2.6 mi away. The nearest airport is Kochi International Airport, 47 mi from Alleppey Beach Garden.  Alleppey Beach Garden offers accommodations on the Alleppey beach. Guests can enjoy the on-site restaurant.",
+        "speaker": "system",
+        "type": "answer",
+        "ts": "1558365845.012000",
+        "utterance": {
+            "nlg": "I would like to say that these are actually a couple of the main features Bike hire and car hire are available at this hotel and the area is popular for fishing and canoeing. Nehru Trophy Boat Race is 2.7 mi from Alleppey Beach Garden, while Nehru Trophy Finishing Point is 2.6 mi away. The nearest airport is Kochi International Airport, 47 mi from Alleppey Beach Garden.  Alleppey Beach Garden offers accommodations on the Alleppey beach. Guests can enjoy the on-site restaurant.",
+            "false nlg": "",
+            "images": "null",
+            "kb": "null",
+            "aspect": [
+                "area",
+                "site",
+                "kochi",
+                "boat",
+                "offers",
+                "features",
+                "airport",
+                "couple",
+                "accommodations",
+                "point",
+                "restaurant",
+                "beach",
+                "hotel",
+                "nehru",
+                "car",
+                "guests",
+                "garden"
+            ],
+            "sentiment": "pos"
+        }
+    },
+    {
+        "utterance": {
+            "nlg": "What do you want out of Downtown Dakar?",
+            "false nlg": "null",
+            "kb": "If you want out of the craziness of Downtown Dakar. Perfect hotel and very reasonable rates. Amazing views of the ocean and private little beach. Great pool as well. Staff very professional and friendly. Had a perfect stay. ",
+            "images": "null",
+            "aspect": [
+                "downtown",
+                "want"
+            ],
+            "sentiment_kb": "pos",
+            "sentiment_words": [
+                "perfect",
+                "pool",
+                "professional",
+                "friendly"
+            ],
+            "sentiment": "neg"
+        },
+        "speaker": "user",
+        "type": "question"
+    },
+    {
+        "utterance": {
+            "nlg": "If you want out of the craziness of Downtown Dakar.",
+            "false nlg": "null",
+            "images": "null",
+            "aspect": [
+                "downtown",
+                "want"
+            ],
+            "kb": "If you want out of the craziness of Downtown Dakar. Perfect hotel and very reasonable rates. Amazing views of the ocean and private little beach. Great pool as well. Staff very professional and friendly. Had a perfect stay. ",
+            "sentiment_kb": "pos",
+            "sentiment_words": [
+                "perfect",
+                "pool",
+                "professional",
+                "friendly"
+            ],
+            "sentiment": "pos"
+        },
+        "speaker": "system",
+        "type": "answer"
+    },
+    {
+        "utterance": {
+            "nlg": "What did the first thing I noticed was that the airconditioner was an old model?",
+            "false nlg": "null",
+            "kb": "We were shown to a room and the first thing I noticed was that the airconditioner was an old model. I checked it and the vent had no spring, so cold air would head straight down onto my side of the bed. We tried another room and the same thing applied, so we opted for the first one and I put a bandaid on the aircon vent to keep it in place for the night. The room was quite OK except that we couldn't program the TV for some reason. After multiple repeats of CNN news we gave up on that. The bed was fine. We slept well, but the shower had the tiniest amount of water pressure - enough though for an adequate shower in my case. My wife opted for the bucket that was placed in the recess and showered the old-fashioned Asian way. This is not good for a supposedly 5-star hotel. Breakfast was OK. Reception was a bit offhand. The young man when we arrived didn't really want to know what I was saying. He may have been new, as when I asked later where the nearest ATM was, and he ignored me, an older man came to the rescue and was very helpful. This is really a pretty run-down hotel.",
+            "images": "null",
+            "aspect": [
+                "model",
+                "thing"
+            ],
+            "sentiment_kb": "neg",
+            "sentiment_words": [
+                "cold",
+                "pressure",
+                "case",
+                "offhand"
+            ],
+            "sentiment": "neg"
+        },
+        "speaker": "user",
+        "type": "question"
+    },
+    {
+        "utterance": {
+            "nlg": "We were shown to a room and the first thing I noticed was that the airconditioner was an old model.",
+            "false nlg": "null",
+            "images": "null",
+            "aspect": [
+                "room",
+                "model",
+                "thing"
+            ],
+            "kb": "We were shown to a room and the first thing I noticed was that the airconditioner was an old model. I checked it and the vent had no spring, so cold air would head straight down onto my side of the bed. We tried another room and the same thing applied, so we opted for the first one and I put a bandaid on the aircon vent to keep it in place for the night. The room was quite OK except that we couldn't program the TV for some reason. After multiple repeats of CNN news we gave up on that. The bed was fine. We slept well, but the shower had the tiniest amount of water pressure - enough though for an adequate shower in my case. My wife opted for the bucket that was placed in the recess and showered the old-fashioned Asian way. This is not good for a supposedly 5-star hotel. Breakfast was OK. Reception was a bit offhand. The young man when we arrived didn't really want to know what I was saying. He may have been new, as when I asked later where the nearest ATM was, and he ignored me, an older man came to the rescue and was very helpful. This is really a pretty run-down hotel.",
+            "sentiment_kb": "neg",
+            "sentiment_words": [
+                "cold",
+                "pressure",
+                "case",
+                "offhand"
+            ],
+            "sentiment": "pos"
+        },
+        "speaker": "system",
+        "type": "answer"
+    },
+    {
+        "client_msg_id": "61232a5e-69ac-4662-b427-0cc56aa4aa59",
+        "text": "It's great.I love  it That is a really nice  by the fact that it has got Toilet paper, Towels, Towels/Sheets (extra fee, Bathtb or shower, Toilet, Bathtb, Shower facilities in this Hotel room.",
+        "speaker": "user",
+        "type": "answer",
+        "ts": "1558365967.012900",
+        "utterance": {
+            "nlg": "It's great.I love  it That is a really nice  by the fact that it has got Toilet paper, Towels, Towels/Sheets (extra fee, Bathtb or shower, Toilet, Bathtb, Shower facilities in this Hotel room.",
+            "false nlg": "",
+            "images": "null",
+            "kb": "null",
+            "aspect": [
+                "facilities",
+                "shower",
+                "towels",
+                "great",
+                "toilet",
+                "nice",
+                "paper",
+                "hotel",
+                "room"
+            ],
+            "sentiment": "pos"
+        }
+    },
+    {
+        "client_msg_id": "35fa384e-654d-4797-b47e-993f8692ef9a",
+        "text": "Thank you for helping me.  I truly appreciate everyone is efforts and commitments to our success. Thank you ",
+        "speaker": "user",
+        "type": "exit",
+        "ts": "1558365989.013400",
+        "utterance": {
+            "nlg": "Thank you for helping me.  I truly appreciate everyone is efforts and commitments to our success. Thank you ",
+            "false nlg": "",
+            "images": "null",
+            "kb": "null",
+            "aspect": [
+                "thank"
+            ],
+            "sentiment": "pos"
+        }
+    },
+    {
+        "client_msg_id": "54d6432b-1bdb-4954-861e-241f8b474eea",
+        "text": "Glad to know it was helpful. Sure.",
+        "speaker": "system",
+        "type": "exit",
+        "ts": "1558365994.013700",
+        "utterance": {
+            "nlg": "Glad to know it was helpful. Sure.",
+            "false nlg": "",
+            "images": "null",
+            "kb": "null",
+            "aspect": [
+                "sure",
+                "glad"
+            ],
+            "sentiment": "pos"
+        }
+    }
+]

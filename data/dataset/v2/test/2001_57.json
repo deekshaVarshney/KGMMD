@@ -1,0 +1,565 @@
+[
+    {
+        "client_msg_id": "56c63d55-6d24-4119-b24b-cdd155b6619a",
+        "text": "I Hope that you are free now. I am seeking for some help from you.",
+        "speaker": "user",
+        "type": "greeting",
+        "ts": "1558362868.000600",
+        "utterance": {
+            "nlg": "I Hope that you are free now. I am seeking for some help from you.",
+            "false nlg": "",
+            "images": "null",
+            "kb": "null",
+            "aspect": [
+                "hope",
+                "help"
+            ],
+            "sentiment": "pos"
+        }
+    },
+    {
+        "client_msg_id": "1b8d70e7-673a-4050-b7fc-0ba7f22db64d",
+        "text": "Yes, I am free for you anytime any where please tell me how should I help.",
+        "speaker": "system",
+        "type": "greeting",
+        "ts": "1558364122.001000",
+        "utterance": {
+            "nlg": "Yes, I am free for you anytime any where please tell me how should I help.",
+            "false nlg": "",
+            "images": "null",
+            "kb": "null",
+            "aspect": [
+                "please",
+                "yes",
+                "help"
+            ],
+            "sentiment": "pos"
+        }
+    },
+    {
+        "client_msg_id": "3c48a5c0-f855-4497-82bb-3e8b5f7cebce",
+        "text": "I currently interested around, a single room in alleppey. please?",
+        "speaker": "user",
+        "type": "answer",
+        "ts": "1558364332.001700",
+        "utterance": {
+            "nlg": "I currently interested around, a single room in alleppey. please?",
+            "false nlg": "",
+            "images": "null",
+            "kb": "null",
+            "aspect": [
+                "please",
+                "room"
+            ],
+            "sentiment": "neg"
+        }
+    },
+    {
+        "client_msg_id": "554c18c4-5cc0-4f64-93dd-db550c0cb541",
+        "text": "Have me understand this dates information please! Can you tell me the number of people who arrive at the hotel, please.",
+        "speaker": "system",
+        "type": "question",
+        "ts": "1558364450.002700",
+        "utterance": {
+            "nlg": "Have me understand this dates information please! Can you tell me the number of people who arrive at the hotel, please.",
+            "false nlg": "",
+            "images": "null",
+            "kb": "null",
+            "aspect": [
+                "please",
+                "information",
+                "number",
+                "dates",
+                "people",
+                "hotel"
+            ],
+            "sentiment": "pos"
+        }
+    },
+    {
+        "client_msg_id": "5a07a19c-8d31-4d61-9829-23e4f254f345",
+        "text": "I want to stay from 27th June to 30th June. 3 Members are there and want a three bedded room. Is it possible?",
+        "speaker": "user",
+        "type": "question",
+        "ts": "1558364848.004600",
+        "utterance": {
+            "nlg": "I want to stay from 27th June to 30th June. 3 Members are there and want a three bedded room. Is it possible?",
+            "false nlg": "",
+            "images": "null",
+            "kb": "null",
+            "aspect": [
+                "want",
+                "june",
+                "stay",
+                "room",
+                "members"
+            ],
+            "sentiment": "neg"
+        }
+    },
+    {
+        "client_msg_id": "cf6a36b7-abc1-4b99-b3f8-dc58d1873646",
+        "text": "It's difficult to see you waiting, but please co-operate",
+        "speaker": "system",
+        "type": "answer",
+        "ts": "1558364915.005200",
+        "utterance": {
+            "nlg": "It's difficult to see you waiting, but please co-operate",
+            "false nlg": "",
+            "images": "null",
+            "kb": "null",
+            "aspect": [
+                "please"
+            ],
+            "sentiment": "pos"
+        }
+    },
+    {
+        "client_msg_id": "e6c6d79b-74e4-4d8c-bd2b-13c8b1023165",
+        "text": "Do you mind considering these images:  1)   Lake Garden Resorts,  2)   Ramada Alleppey,  3)   Aham yoga retreat,  4)   New Seashore Homely Stay,  5)   Lemon Dew, ",
+        "speaker": "system",
+        "type": "answer",
+        "ts": "1558364969.005800",
+        "attachments": {
+            "image_url": [
+                "https://q-cf.bstatic.com/images/hotel/max400/133/133212129.jpg",
+                "https://q-cf.bstatic.com/images/hotel/max400/208/208223915.jpg",
+                "https://r-cf.bstatic.com/images/hotel/max400/834/83484100.jpg",
+                "https://r-cf.bstatic.com/images/hotel/max400/172/172440018.jpg",
+                "https://q-cf.bstatic.com/images/hotel/max400/239/239867924.jpg"
+            ]
+        },
+        "utterance": {
+            "nlg": "Do you mind considering these images:  1)   Lake Garden Resorts,  2)   Ramada Alleppey,  3)   Aham yoga retreat,  4)   New Seashore Homely Stay,  5)   Lemon Dew, ",
+            "false nlg": "",
+            "images": [
+                "https://q-cf.bstatic.com/images/hotel/max400/133/133212129.jpg",
+                "https://q-cf.bstatic.com/images/hotel/max400/208/208223915.jpg",
+                "https://r-cf.bstatic.com/images/hotel/max400/834/83484100.jpg",
+                "https://r-cf.bstatic.com/images/hotel/max400/172/172440018.jpg",
+                "https://q-cf.bstatic.com/images/hotel/max400/239/239867924.jpg"
+            ],
+            "kb": "null",
+            "aspect": [
+                "resorts",
+                "ramada",
+                "retreat",
+                "images",
+                "lake",
+                "mind",
+                "stay",
+                "garden"
+            ],
+            "sentiment": "pos"
+        }
+    },
+    {
+        "client_msg_id": "3d0e4902-fc21-4f38-b5c8-84450dd67bd0",
+        "text": "Ok. Give some images of the last two.",
+        "speaker": "user",
+        "type": "answer",
+        "ts": "1558365029.006600",
+        "utterance": {
+            "nlg": "Ok. Give some images of the last two.",
+            "false nlg": "",
+            "images": "null",
+            "kb": "null",
+            "aspect": [
+                "ok",
+                "images"
+            ],
+            "sentiment": "pos"
+        }
+    },
+    {
+        "client_msg_id": "f2cf5448-f830-48d2-8e40-3b3eb3512b7e",
+        "attachments": {
+            "image_url": [
+                "https://r-cf.bstatic.com/images/hotel/max400/210/210936923.jpg",
+                "https://q-cf.bstatic.com/images/hotel/max400/210/210936950.jpg",
+                "https://r-cf.bstatic.com/images/hotel/max400/210/210936954.jpg",
+                "https://r-cf.bstatic.com/images/hotel/max400/210/210936956.jpg",
+                "https://r-cf.bstatic.com/images/hotel/max400/210/210936960.jpg"
+            ]
+        },
+        "text": "These images from our database do you like",
+        "ts": "1558365151.007100",
+        "speaker": "system",
+        "type": "answer",
+        "utterance": {
+            "nlg": "These images from our database do you like",
+            "false nlg": "",
+            "images": [
+                "https://r-cf.bstatic.com/images/hotel/max400/210/210936923.jpg",
+                "https://q-cf.bstatic.com/images/hotel/max400/210/210936950.jpg",
+                "https://r-cf.bstatic.com/images/hotel/max400/210/210936954.jpg",
+                "https://r-cf.bstatic.com/images/hotel/max400/210/210936956.jpg",
+                "https://r-cf.bstatic.com/images/hotel/max400/210/210936960.jpg"
+            ],
+            "kb": "null",
+            "aspect": [
+                "images"
+            ],
+            "sentiment": "pos"
+        }
+    },
+    {
+        "client_msg_id": "2f38b32c-c47e-4ab9-b5b1-acc75808855b",
+        "text": "These are the images of the last hotel.",
+        "speaker": "system",
+        "type": "answer",
+        "ts": "1558365181.007700",
+        "utterance": {
+            "nlg": "These are the images of the last hotel.",
+            "false nlg": "",
+            "images": "null",
+            "kb": "null",
+            "aspect": [
+                "hotel",
+                "images"
+            ],
+            "sentiment": "neg"
+        }
+    },
+    {
+        "client_msg_id": "ea068d76-bb2c-46d4-ac2c-9730937a6da0",
+        "attachments": {
+            "image_url": [
+                "https://q-cf.bstatic.com/images/hotel/max400/148/148827092.jpg",
+                "https://q-cf.bstatic.com/images/hotel/max400/780/78079647.jpg"
+            ]
+        },
+        "text": "did you enjoy the photos through our database",
+        "ts": "1558365262.008700",
+        "speaker": "system",
+        "type": "answer",
+        "utterance": {
+            "nlg": "did you enjoy the photos through our database",
+            "false nlg": "",
+            "images": [
+                "https://q-cf.bstatic.com/images/hotel/max400/148/148827092.jpg",
+                "https://q-cf.bstatic.com/images/hotel/max400/780/78079647.jpg"
+            ],
+            "kb": "null",
+            "aspect": [
+                "photos"
+            ],
+            "sentiment": "pos"
+        }
+    },
+    {
+        "client_msg_id": "11074621-12ab-4f24-9561-bc5cbac73b88",
+        "text": "I like the first one",
+        "speaker": "user",
+        "type": "answer",
+        "ts": "1558365283.009300",
+        "utterance": {
+            "nlg": "I like the first one",
+            "false nlg": "",
+            "images": "null",
+            "kb": "null",
+            "aspect": [
+                "one"
+            ],
+            "sentiment": "pos"
+        }
+    },
+    {
+        "client_msg_id": "8591c915-df7f-491c-813c-b3654191353e",
+        "text": "Let this know me,  Pets,  Activities,  features please, in detail of the selected room?",
+        "speaker": "user",
+        "type": "question",
+        "ts": "1558365315.009900",
+        "utterance": {
+            "nlg": "Let this know me,  Pets,  Activities,  features please, in detail of the selected room?",
+            "false nlg": "",
+            "images": "null",
+            "kb": "null",
+            "aspect": [
+                "please",
+                "activities",
+                "features",
+                "pets",
+                "room"
+            ],
+            "sentiment": "pos"
+        }
+    },
+    {
+        "client_msg_id": "17a015d7-6f2d-40da-abe4-0d7f9b2a6f91",
+        "text": "The components that you asked for are as follows  Pets:Pets are not allowed.,  Activities:Beach, .",
+        "speaker": "system",
+        "type": "answer",
+        "ts": "1558365449.010400",
+        "utterance": {
+            "nlg": "The components that you asked for are as follows  Pets:Pets are not allowed.,  Activities:Beach, .",
+            "false nlg": "",
+            "images": "null",
+            "kb": "null",
+            "aspect": [
+                "activities",
+                "pets",
+                "beach"
+            ],
+            "sentiment": "pos"
+        }
+    },
+    {
+        "client_msg_id": "76afc7a6-ec6d-4fb4-ba0e-a0af27a2241f",
+        "text": "know that we can depend on by the fact that it has got Beach facilities in this Hotel room. could indeed you start giving me analogous kind of Hotel room categories, Children is play area at New Seashore Homely Stay ?",
+        "speaker": "user",
+        "type": "question",
+        "ts": "1558365784.011200",
+        "utterance": {
+            "nlg": "know that we can depend on by the fact that it has got Beach facilities in this Hotel room. could indeed you start giving me analogous kind of Hotel room categories, Children is play area at New Seashore Homely Stay ?",
+            "false nlg": "",
+            "images": "null",
+            "kb": "null",
+            "aspect": [
+                "kind",
+                "area",
+                "facilities",
+                "room",
+                "play",
+                "beach",
+                "hotel",
+                "stay",
+                "children"
+            ],
+            "sentiment": "pos"
+        }
+    },
+    {
+        "client_msg_id": "ea55ee9c-7cf0-4fe5-adab-2f24c2e4e881",
+        "text": "You might be bothering to look at all of you, please of Children is play area at New Seashore Homely Stay ",
+        "speaker": "system",
+        "type": "answer",
+        "ts": "1558365794.011300",
+        "image_url": [
+            "https://r-cf.bstatic.com/images/hotel/max400/220/220163024.jpg"
+        ],
+        "utterance": {
+            "nlg": "You might be bothering to look at all of you, please of Children is play area at New Seashore Homely Stay ",
+            "false nlg": "",
+            "images": "null",
+            "kb": "null",
+            "aspect": [
+                "please",
+                "look",
+                "play",
+                "area",
+                "stay",
+                "children"
+            ],
+            "sentiment": "pos"
+        }
+    },
+    {
+        "client_msg_id": "a1bdff32-879f-469c-86a5-6e58952c18db",
+        "text": "did a great job by the fact that it has got Otdoor fireplace, Otdoor frnitre, Sn deck, Barbece, BBQ facilities, Terrace, Garden facilities in this Hotel room. Would you want to tell me about the general description about this hotel please.",
+        "speaker": "user",
+        "type": "question",
+        "ts": "1558365818.011500",
+        "utterance": {
+            "nlg": "did a great job by the fact that it has got Otdoor fireplace, Otdoor frnitre, Sn deck, Barbece, BBQ facilities, Terrace, Garden facilities in this Hotel room. Would you want to tell me about the general description about this hotel please.",
+            "false nlg": "",
+            "images": "null",
+            "kb": "null",
+            "aspect": [
+                "facilities",
+                "please",
+                "terrace",
+                "want",
+                "great",
+                "bbq",
+                "garden",
+                "deck",
+                "hotel",
+                "room",
+                "description"
+            ],
+            "sentiment": "pos"
+        }
+    },
+    {
+        "client_msg_id": "366f542b-3b23-4eab-a0c1-10972b923ecc",
+        "text": "The general conditions are, therefore, almost as described Located in Alleppey in the Kerala region, with Alleppey Beach and Thumpoly Beach nearby, New Seashore Homely Stay has accommodations with free WiFi and free private parking. Some units have a balcony and/or terrace.",
+        "speaker": "system",
+        "type": "answer",
+        "ts": "1558365845.012000",
+        "utterance": {
+            "nlg": "The general conditions are, therefore, almost as described Located in Alleppey in the Kerala region, with Alleppey Beach and Thumpoly Beach nearby, New Seashore Homely Stay has accommodations with free WiFi and free private parking. Some units have a balcony and/or terrace.",
+            "false nlg": "",
+            "images": "null",
+            "kb": "null",
+            "aspect": [
+                "kerala",
+                "stay",
+                "terrace",
+                "balcony",
+                "wifi",
+                "region",
+                "accommodations",
+                "units",
+                "beach",
+                "nearby",
+                "parking"
+            ],
+            "sentiment": "pos"
+        }
+    },
+    {
+        "utterance": {
+            "nlg": "What was the name of the person who visited with piyush?",
+            "false nlg": "null",
+            "kb": "Ashutosh kumar sinhaI visited with my childhood friend piyush. And i feel so good. Very nice interior lightning. Therefore so polite staffs and waitor. Ambience was also cool and very large space. Neat n clean. I recommend everyone for visit. Therefore decoration was also attract you. We ordered Corn salt and peeper and Murg Masala. Delcious foodie. Thanks.",
+            "images": "null",
+            "aspect": [
+                "name",
+                "person"
+            ],
+            "sentiment_kb": "pos",
+            "sentiment_words": [
+                "childhood",
+                "friend",
+                "good",
+                "interior",
+                "polite",
+                "cool",
+                "clean",
+                "recommend",
+                "visit"
+            ],
+            "sentiment": "neg"
+        },
+        "speaker": "user",
+        "type": "question"
+    },
+    {
+        "utterance": {
+            "nlg": "Ashutosh kumar sinhaI visited with my childhood friend piyush.",
+            "false nlg": "null",
+            "images": "null",
+            "aspect": [
+                "friend"
+            ],
+            "kb": "Ashutosh kumar sinhaI visited with my childhood friend piyush. And i feel so good. Very nice interior lightning. Therefore so polite staffs and waitor. Ambience was also cool and very large space. Neat n clean. I recommend everyone for visit. Therefore decoration was also attract you. We ordered Corn salt and peeper and Murg Masala. Delcious foodie. Thanks.",
+            "sentiment_kb": "pos",
+            "sentiment_words": [
+                "childhood",
+                "friend",
+                "good",
+                "interior",
+                "polite",
+                "cool",
+                "clean",
+                "recommend",
+                "visit"
+            ],
+            "sentiment": "pos"
+        },
+        "speaker": "system",
+        "type": "answer"
+    },
+    {
+        "utterance": {
+            "nlg": "How many stars did I give a hotel if I could?",
+            "false nlg": "null",
+            "kb": "I would give them more than 5 stars if I could. Everything was superb, from the most friendly and helpful staff I ever had the pleasure of interacting to one of the best breakfast item I have ever tried (Vermouth Brioche) or to all the high quality finishing touches you can find in all the rooms. It was one of the best experiences I ever had in a hotel and I can't wait to come back and enjoy it again.",
+            "images": "null",
+            "aspect": [
+                "hotel",
+                "stars"
+            ],
+            "sentiment_kb": "pos",
+            "sentiment_words": [
+                "superb",
+                "friendly",
+                "helpful",
+                "breakfast",
+                "enjoy"
+            ],
+            "sentiment": "neg"
+        },
+        "speaker": "user",
+        "type": "question"
+    },
+    {
+        "utterance": {
+            "nlg": "I would give them more than 5 stars if I could.",
+            "false nlg": "null",
+            "images": "null",
+            "aspect": [
+                "stars"
+            ],
+            "kb": "I would give them more than 5 stars if I could. Everything was superb, from the most friendly and helpful staff I ever had the pleasure of interacting to one of the best breakfast item I have ever tried (Vermouth Brioche) or to all the high quality finishing touches you can find in all the rooms. It was one of the best experiences I ever had in a hotel and I can't wait to come back and enjoy it again.",
+            "sentiment_kb": "pos",
+            "sentiment_words": [
+                "superb",
+                "friendly",
+                "helpful",
+                "breakfast",
+                "enjoy"
+            ],
+            "sentiment": "pos"
+        },
+        "speaker": "system",
+        "type": "answer"
+    },
+    {
+        "client_msg_id": "61232a5e-69ac-4662-b427-0cc56aa4aa59",
+        "text": "It's great.I love  it knowledgeable and helpful by the fact that it has got Pets are allowed. No extra charges. facilities in this Hotel room.",
+        "speaker": "user",
+        "type": "answer",
+        "ts": "1558365967.012900",
+        "utterance": {
+            "nlg": "It's great.I love  it knowledgeable and helpful by the fact that it has got Pets are allowed. No extra charges. facilities in this Hotel room.",
+            "false nlg": "",
+            "images": "null",
+            "kb": "null",
+            "aspect": [
+                "facilities",
+                "charges",
+                "great",
+                "pets",
+                "hotel",
+                "room"
+            ],
+            "sentiment": "pos"
+        }
+    },
+    {
+        "client_msg_id": "35fa384e-654d-4797-b47e-993f8692ef9a",
+        "text": "Thank you for helping me. Just when I thought I could not love you more, you did that. Thank you for being so amazing!",
+        "speaker": "user",
+        "type": "exit",
+        "ts": "1558365989.013400",
+        "utterance": {
+            "nlg": "Thank you for helping me. Just when I thought I could not love you more, you did that. Thank you for being so amazing!",
+            "false nlg": "",
+            "images": "null",
+            "kb": "null",
+            "aspect": [
+                "thank"
+            ],
+            "sentiment": "pos"
+        }
+    },
+    {
+        "client_msg_id": "54d6432b-1bdb-4954-861e-241f8b474eea",
+        "text": "Glad to know it was helpful. I owe it to you ;)",
+        "speaker": "system",
+        "type": "exit",
+        "ts": "1558365994.013700",
+        "utterance": {
+            "nlg": "Glad to know it was helpful. I owe it to you ;)",
+            "false nlg": "",
+            "images": "null",
+            "kb": "null",
+            "aspect": [
+                "glad"
+            ],
+            "sentiment": "pos"
+        }
+    }
+]

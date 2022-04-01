@@ -1,0 +1,618 @@
+[
+    {
+        "client_msg_id": "56c63d55-6d24-4119-b24b-cdd155b6619a",
+        "text": "Hi. I want you to help me please.",
+        "speaker": "user",
+        "type": "greeting",
+        "ts": "1558362868.000600",
+        "utterance": {
+            "nlg": "Hi. I want you to help me please.",
+            "false nlg": "",
+            "images": "null",
+            "kb": "null",
+            "aspect": [
+                "please",
+                "hi",
+                "help",
+                "want"
+            ],
+            "sentiment": "pos"
+        }
+    },
+    {
+        "client_msg_id": "1b8d70e7-673a-4050-b7fc-0ba7f22db64d",
+        "text": "Hello. Please tell me how should I help.",
+        "speaker": "system",
+        "type": "greeting",
+        "ts": "1558364122.001000",
+        "utterance": {
+            "nlg": "Hello. Please tell me how should I help.",
+            "false nlg": "",
+            "images": "null",
+            "kb": "null",
+            "aspect": [
+                "please",
+                "hello",
+                "help"
+            ],
+            "sentiment": "neg"
+        }
+    },
+    {
+        "client_msg_id": "3c48a5c0-f855-4497-82bb-3e8b5f7cebce",
+        "text": "I just like to pay attention at a few of the your very highest rated two single room in alleppey. please?",
+        "speaker": "user",
+        "type": "answer",
+        "ts": "1558364332.001700",
+        "utterance": {
+            "nlg": "I just like to pay attention at a few of the your very highest rated two single room in alleppey. please?",
+            "false nlg": "",
+            "images": "null",
+            "kb": "null",
+            "aspect": [
+                "please",
+                "room"
+            ],
+            "sentiment": "pos"
+        }
+    },
+    {
+        "client_msg_id": "554c18c4-5cc0-4f64-93dd-db550c0cb541",
+        "text": "Please remind me about the latter dates information please! I want to record the number of guests coming at the hotel please. Kindly tell me that.",
+        "speaker": "system",
+        "type": "question",
+        "ts": "1558364450.002700",
+        "utterance": {
+            "nlg": "Please remind me about the latter dates information please! I want to record the number of guests coming at the hotel please. Kindly tell me that.",
+            "false nlg": "",
+            "images": "null",
+            "kb": "null",
+            "aspect": [
+                "please",
+                "information",
+                "want",
+                "number",
+                "dates",
+                "hotel",
+                "guests"
+            ],
+            "sentiment": "pos"
+        }
+    },
+    {
+        "client_msg_id": "5a07a19c-8d31-4d61-9829-23e4f254f345",
+        "text": "I want to stay from 20th October to 30th June. Three Members are there and want a three bedded room. Is it possible?",
+        "speaker": "user",
+        "type": "question",
+        "ts": "1558364848.004600",
+        "utterance": {
+            "nlg": "I want to stay from 20th October to 30th June. Three Members are there and want a three bedded room. Is it possible?",
+            "false nlg": "",
+            "images": "null",
+            "kb": "null",
+            "aspect": [
+                "want",
+                "june",
+                "stay",
+                "room",
+                "members"
+            ],
+            "sentiment": "neg"
+        }
+    },
+    {
+        "client_msg_id": "cf6a36b7-abc1-4b99-b3f8-dc58d1873646",
+        "text": "I would search for this in my database. Kindly hold for some time.",
+        "speaker": "system",
+        "type": "answer",
+        "ts": "1558364915.005200",
+        "utterance": {
+            "nlg": "I would search for this in my database. Kindly hold for some time.",
+            "false nlg": "",
+            "images": "null",
+            "kb": "null",
+            "aspect": [
+                "time",
+                "search"
+            ],
+            "sentiment": "pos"
+        }
+    },
+    {
+        "client_msg_id": "e6c6d79b-74e4-4d8c-bd2b-13c8b1023165",
+        "text": "Please have a look at these images:  1)   New Seashore Homely Stay,  2)   Lemon Dew,  3)   Punnamada Luxury Houseboat,  4)   Kalappura Homestay,  5)   Treebo Tryst Palmyra Milford, ",
+        "speaker": "system",
+        "type": "answer",
+        "ts": "1558364969.005800",
+        "attachments": {
+            "image_url": [
+                "https://q-cf.bstatic.com/images/hotel/max400/133/133212129.jpg",
+                "https://q-cf.bstatic.com/images/hotel/max400/208/208223915.jpg",
+                "https://r-cf.bstatic.com/images/hotel/max400/834/83484100.jpg",
+                "https://r-cf.bstatic.com/images/hotel/max400/172/172440018.jpg",
+                "https://q-cf.bstatic.com/images/hotel/max400/239/239867924.jpg"
+            ]
+        },
+        "utterance": {
+            "nlg": "Please have a look at these images:  1)   New Seashore Homely Stay,  2)   Lemon Dew,  3)   Punnamada Luxury Houseboat,  4)   Kalappura Homestay,  5)   Treebo Tryst Palmyra Milford, ",
+            "false nlg": "",
+            "images": [
+                "https://q-cf.bstatic.com/images/hotel/max400/133/133212129.jpg",
+                "https://q-cf.bstatic.com/images/hotel/max400/208/208223915.jpg",
+                "https://r-cf.bstatic.com/images/hotel/max400/834/83484100.jpg",
+                "https://r-cf.bstatic.com/images/hotel/max400/172/172440018.jpg",
+                "https://q-cf.bstatic.com/images/hotel/max400/239/239867924.jpg"
+            ],
+            "kb": "null",
+            "aspect": [
+                "please",
+                "stay",
+                "look",
+                "images",
+                "houseboat",
+                "treebo",
+                "tryst",
+                "luxury",
+                "homestay"
+            ],
+            "sentiment": "pos"
+        }
+    },
+    {
+        "client_msg_id": "3d0e4902-fc21-4f38-b5c8-84450dd67bd0",
+        "text": "Ok.Give some images of the last two.",
+        "speaker": "user",
+        "type": "answer",
+        "ts": "1558365029.006600",
+        "utterance": {
+            "nlg": "Ok.Give some images of the last two.",
+            "false nlg": "",
+            "images": "null",
+            "kb": "null",
+            "aspect": [
+                "ok",
+                "images"
+            ],
+            "sentiment": "pos"
+        }
+    },
+    {
+        "client_msg_id": "f2cf5448-f830-48d2-8e40-3b3eb3512b7e",
+        "attachments": {
+            "image_url": [
+                "https://q-cf.bstatic.com/images/hotel/max400/179/179433263.jpg"
+            ]
+        },
+        "text": "The item orientations are as continues to follow",
+        "ts": "1558365151.007100",
+        "speaker": "system",
+        "type": "answer",
+        "utterance": {
+            "nlg": "The item orientations are as continues to follow",
+            "false nlg": "",
+            "images": [
+                "https://q-cf.bstatic.com/images/hotel/max400/179/179433263.jpg"
+            ],
+            "kb": "null",
+            "aspect": [
+                "item"
+            ],
+            "sentiment": "neg"
+        }
+    },
+    {
+        "client_msg_id": "2f38b32c-c47e-4ab9-b5b1-acc75808855b",
+        "text": "These are the images of the last hotel.",
+        "speaker": "system",
+        "type": "answer",
+        "ts": "1558365181.007700",
+        "utterance": {
+            "nlg": "These are the images of the last hotel.",
+            "false nlg": "",
+            "images": "null",
+            "kb": "null",
+            "aspect": [
+                "hotel",
+                "images"
+            ],
+            "sentiment": "neg"
+        }
+    },
+    {
+        "client_msg_id": "ea068d76-bb2c-46d4-ac2c-9730937a6da0",
+        "attachments": {
+            "image_url": [
+                "https://q-cf.bstatic.com/images/hotel/max400/921/92199516.jpg",
+                "https://r-cf.bstatic.com/images/hotel/max400/921/92199715.jpg",
+                "https://q-cf.bstatic.com/images/hotel/max400/921/92199709.jpg",
+                "https://r-cf.bstatic.com/images/hotel/max400/921/92199531.jpg",
+                "https://r-cf.bstatic.com/images/hotel/max400/921/92199514.jpg",
+                "https://r-cf.bstatic.com/images/hotel/max400/921/92199511.jpg",
+                "https://r-cf.bstatic.com/images/hotel/max400/921/92199733.jpg",
+                "https://q-cf.bstatic.com/images/hotel/max400/921/92199536.jpg",
+                "https://q-cf.bstatic.com/images/hotel/max400/921/92199544.jpg",
+                "https://r-cf.bstatic.com/images/hotel/max400/921/92199721.jpg"
+            ]
+        },
+        "text": "Hotel room orientations are as follows",
+        "ts": "1558365262.008700",
+        "speaker": "system",
+        "type": "answer",
+        "utterance": {
+            "nlg": "Hotel room orientations are as follows",
+            "false nlg": "",
+            "images": [
+                "https://q-cf.bstatic.com/images/hotel/max400/921/92199516.jpg",
+                "https://r-cf.bstatic.com/images/hotel/max400/921/92199715.jpg",
+                "https://q-cf.bstatic.com/images/hotel/max400/921/92199709.jpg",
+                "https://r-cf.bstatic.com/images/hotel/max400/921/92199531.jpg",
+                "https://r-cf.bstatic.com/images/hotel/max400/921/92199514.jpg",
+                "https://r-cf.bstatic.com/images/hotel/max400/921/92199511.jpg",
+                "https://r-cf.bstatic.com/images/hotel/max400/921/92199733.jpg",
+                "https://q-cf.bstatic.com/images/hotel/max400/921/92199536.jpg",
+                "https://q-cf.bstatic.com/images/hotel/max400/921/92199544.jpg",
+                "https://r-cf.bstatic.com/images/hotel/max400/921/92199721.jpg"
+            ],
+            "kb": "null",
+            "aspect": [
+                "hotel",
+                "room"
+            ],
+            "sentiment": "pos"
+        }
+    },
+    {
+        "client_msg_id": "11074621-12ab-4f24-9561-bc5cbac73b88",
+        "text": "I like the first one",
+        "speaker": "user",
+        "type": "answer",
+        "ts": "1558365283.009300",
+        "utterance": {
+            "nlg": "I like the first one",
+            "false nlg": "",
+            "images": "null",
+            "kb": "null",
+            "aspect": [
+                "one"
+            ],
+            "sentiment": "pos"
+        }
+    },
+    {
+        "client_msg_id": "8591c915-df7f-491c-813c-b3654191353e",
+        "text": "Please remind me of the  Food &amp; Drink,  Internet,  features please, in detail of the selected room?",
+        "speaker": "user",
+        "type": "question",
+        "ts": "1558365315.009900",
+        "utterance": {
+            "nlg": "Please remind me of the  Food &amp; Drink,  Internet,  features please, in detail of the selected room?",
+            "false nlg": "",
+            "images": "null",
+            "kb": "null",
+            "aspect": [
+                "please",
+                "food",
+                "features",
+                "amp",
+                "internet",
+                "room"
+            ],
+            "sentiment": "pos"
+        }
+    },
+    {
+        "client_msg_id": "17a015d7-6f2d-40da-abe4-0d7f9b2a6f91",
+        "text": "I am extremely happy that you have requested for this. The specific details are as continues to follow:  Food &amp; Drink:Bottle of water,  Food &amp; Drink:Special diet meals (on request,  Food &amp; Drink:Breakfast in the room,  Food &amp; Drink:Good Coffee!,  Internet:WiFi is available in all areas and is free of charge., .",
+        "speaker": "system",
+        "type": "answer",
+        "ts": "1558365449.010400",
+        "utterance": {
+            "nlg": "I am extremely happy that you have requested for this. The specific details are as continues to follow:  Food &amp; Drink:Bottle of water,  Food &amp; Drink:Special diet meals (on request,  Food &amp; Drink:Breakfast in the room,  Food &amp; Drink:Good Coffee!,  Internet:WiFi is available in all areas and is free of charge., .",
+            "false nlg": "",
+            "images": "null",
+            "kb": "null",
+            "aspect": [
+                "details",
+                "bottle",
+                "meals",
+                "room",
+                "coffee",
+                "breakfast",
+                "food",
+                "wifi",
+                "amp",
+                "internet",
+                "good",
+                "water",
+                "special"
+            ],
+            "sentiment": "pos"
+        }
+    },
+    {
+        "client_msg_id": "76afc7a6-ec6d-4fb4-ba0e-a0af27a2241f",
+        "text": "spectacular! wow that is so Astonishing. I am blown away  by the fact that it has got WiFi is available in all areas and is free of charge. facilities in this Hotel room. I take into account the item above impressive. I am also keen to know similar ones, Guests staying at Kalappura Homestay ?",
+        "speaker": "user",
+        "type": "question",
+        "ts": "1558365784.011200",
+        "utterance": {
+            "nlg": "spectacular! wow that is so Astonishing. I am blown away  by the fact that it has got WiFi is available in all areas and is free of charge. facilities in this Hotel room. I take into account the item above impressive. I am also keen to know similar ones, Guests staying at Kalappura Homestay ?",
+            "false nlg": "",
+            "images": "null",
+            "kb": "null",
+            "aspect": [
+                "facilities",
+                "wifi",
+                "guests",
+                "wow",
+                "hotel",
+                "ones",
+                "room",
+                "homestay",
+                "item"
+            ],
+            "sentiment": "pos"
+        }
+    },
+    {
+        "client_msg_id": "ea55ee9c-7cf0-4fe5-adab-2f24c2e4e881",
+        "text": "I have got some items for viewing. Ok, I hope you have found this beneficial:  of Guests staying at Kalappura Homestay ",
+        "speaker": "system",
+        "type": "answer",
+        "ts": "1558365794.011300",
+        "image_url": [
+            "https://r-cf.bstatic.com/images/hotel/max400/767/76756055.jpg",
+            "https://r-cf.bstatic.com/images/hotel/max400/137/137470708.jpg",
+            "https://q-cf.bstatic.com/images/hotel/max400/955/95517934.jpg",
+            "https://q-cf.bstatic.com/images/hotel/max400/955/95517959.jpg",
+            "https://q-cf.bstatic.com/images/hotel/max400/955/95517963.jpg"
+        ],
+        "utterance": {
+            "nlg": "I have got some items for viewing. Ok, I hope you have found this beneficial:  of Guests staying at Kalappura Homestay ",
+            "false nlg": "",
+            "images": "null",
+            "kb": "null",
+            "aspect": [
+                "homestay",
+                "ok",
+                "hope",
+                "items",
+                "guests"
+            ],
+            "sentiment": "pos"
+        }
+    },
+    {
+        "client_msg_id": "a1bdff32-879f-469c-86a5-6e58952c18db",
+        "text": "remarkable! wow that is so Astonishing. I am blown away  by the fact that it has got Socket near the bed, Clothes rack facilities in this Hotel room. I was really just curious to learn about the  general description about this hotel please.",
+        "speaker": "user",
+        "type": "question",
+        "ts": "1558365818.011500",
+        "utterance": {
+            "nlg": "remarkable! wow that is so Astonishing. I am blown away  by the fact that it has got Socket near the bed, Clothes rack facilities in this Hotel room. I was really just curious to learn about the  general description about this hotel please.",
+            "false nlg": "",
+            "images": "null",
+            "kb": "null",
+            "aspect": [
+                "facilities",
+                "please",
+                "room",
+                "rack",
+                "wow",
+                "hotel",
+                "description",
+                "bed"
+            ],
+            "sentiment": "pos"
+        }
+    },
+    {
+        "client_msg_id": "366f542b-3b23-4eab-a0c1-10972b923ecc",
+        "text": "Correspondingly, the general conditions are almost as described Both a bicycle rental service and a car rental service are available at Kalappura Homestay, while cycling can be enjoyed nearby. Mullakkal Rajarajeswari Temple is an 11-minute walk from the family stay, while Nehru Trophy Finishing Point is 1.6 miles away. The nearest airport is Cochin International, 52 miles from Kalappura Homestay, and the property offers a paid airport shuttle service. ",
+        "speaker": "system",
+        "type": "answer",
+        "ts": "1558365845.012000",
+        "utterance": {
+            "nlg": "Correspondingly, the general conditions are almost as described Both a bicycle rental service and a car rental service are available at Kalappura Homestay, while cycling can be enjoyed nearby. Mullakkal Rajarajeswari Temple is an 11-minute walk from the family stay, while Nehru Trophy Finishing Point is 1.6 miles away. The nearest airport is Cochin International, 52 miles from Kalappura Homestay, and the property offers a paid airport shuttle service. ",
+            "false nlg": "",
+            "images": "null",
+            "kb": "null",
+            "aspect": [
+                "stay",
+                "temple",
+                "family",
+                "airport",
+                "shuttle",
+                "point",
+                "walk",
+                "nehru",
+                "service",
+                "offers",
+                "car",
+                "nearby",
+                "homestay"
+            ],
+            "sentiment": "pos"
+        }
+    },
+    {
+        "utterance": {
+            "nlg": "I would not stay there again if I had to give it a 2 stars?",
+            "false nlg": "null",
+            "kb": "It was give 4 stars and I will say it is not I would give it a 2. It was clean but very noisy as there was a generator right outside the room it was also was very small room. We went to there sister hotel for dinner food was fine service was ok but I think we got ripped of when it came to the payment. I would not stay there again.",
+            "images": "null",
+            "aspect": [
+                "stay",
+                "stars"
+            ],
+            "sentiment_kb": "neg",
+            "sentiment_words": [
+                "noisy",
+                "small",
+                "payment"
+            ],
+            "sentiment": "neg"
+        },
+        "speaker": "user",
+        "type": "question"
+    },
+    {
+        "utterance": {
+            "nlg": " I would not stay there again.",
+            "false nlg": "null",
+            "images": "null",
+            "aspect": [
+                "stay"
+            ],
+            "kb": "It was give 4 stars and I will say it is not I would give it a 2. It was clean but very noisy as there was a generator right outside the room it was also was very small room. We went to there sister hotel for dinner food was fine service was ok but I think we got ripped of when it came to the payment. I would not stay there again.",
+            "sentiment_kb": "neg",
+            "sentiment_words": [
+                "noisy",
+                "small",
+                "payment"
+            ],
+            "sentiment": "pos"
+        },
+        "speaker": "system",
+        "type": "answer"
+    },
+    {
+        "utterance": {
+            "nlg": "How many times have I stayed at Hilton hotels in recent years?",
+            "false nlg": "null",
+            "kb": "I\u2019ve stayed here three times, and I always hope it\u2019ll be much better. I visited during the pandemic and was expecting some changes. The welcome was positive with Hilton status acknowledged. The hotel has brought in some strange policies such as you can\u2019t charge food to your room due to Covid, you must pay as you go. I\u2019ve stayed at five Hilton hotels during the recent period and this is the first that\u2019s implemented this. It\u2019s just silly and you don\u2019t earn Hilton points this way. The hotel room was well appointed with nice toiletries and a balcony. However there was a very strong smell of cigarette smoke throughout the stay. I think from the curtains (Room 247) The bar service was okay but odd that you had to go to the bar to order drinks when the government advice is strongly to provide table service. Food is not served until after 5pm. The spa was good but a surcharge of \u00a320pp I think is a bit extortionate. The gym was a good size and I had a great workout. The breakfast was very disorganised, you had to book so they know who is coming and at what time. When we arrived there were no clean tables and food etc everywhere. You are served a very nice tray of continental breakfast with pastry and fruit etc. Whilst this is great, looking around the restaurant I was horrified at how much of the food was left and not touched on people\u2019s tables. I really think people should choose what they want to reduce waste (and cost). It was truly shocking. The hotel has staff who I believe want to do a good job but the service always misses the mark. The staff are never attentive or proactive and always look stressed and exasperated. Last time the GM said to email in advance to ensure a better stay this time. I did this and I can assure you this step made no difference whatsoever. Hotel really needs to up its game. It\u2019s such a great building and setting. ",
+            "images": "null",
+            "aspect": [
+                "hotels",
+                "hilton",
+                "years"
+            ],
+            "sentiment_kb": "pos",
+            "sentiment_words": [
+                "hope",
+                "status",
+                "food",
+                "pay",
+                "don",
+                "earn",
+                "strongly",
+                "provide",
+                "spa",
+                "good",
+                "breakfast",
+                "clean",
+                "pastry",
+                "job",
+                "attentive",
+                "advance",
+                "building"
+            ],
+            "sentiment": "pos"
+        },
+        "speaker": "user",
+        "type": "question"
+    },
+    {
+        "utterance": {
+            "nlg": " I\u2019ve stayed at five Hilton hotels during the recent period and this is the first that\u2019s implemented this.",
+            "false nlg": "null",
+            "images": "null",
+            "aspect": [
+                "hotels",
+                "period",
+                "hilton"
+            ],
+            "kb": "I\u2019ve stayed here three times, and I always hope it\u2019ll be much better. I visited during the pandemic and was expecting some changes. The welcome was positive with Hilton status acknowledged. The hotel has brought in some strange policies such as you can\u2019t charge food to your room due to Covid, you must pay as you go. I\u2019ve stayed at five Hilton hotels during the recent period and this is the first that\u2019s implemented this. It\u2019s just silly and you don\u2019t earn Hilton points this way. The hotel room was well appointed with nice toiletries and a balcony. However there was a very strong smell of cigarette smoke throughout the stay. I think from the curtains (Room 247) The bar service was okay but odd that you had to go to the bar to order drinks when the government advice is strongly to provide table service. Food is not served until after 5pm. The spa was good but a surcharge of \u00a320pp I think is a bit extortionate. The gym was a good size and I had a great workout. The breakfast was very disorganised, you had to book so they know who is coming and at what time. When we arrived there were no clean tables and food etc everywhere. You are served a very nice tray of continental breakfast with pastry and fruit etc. Whilst this is great, looking around the restaurant I was horrified at how much of the food was left and not touched on people\u2019s tables. I really think people should choose what they want to reduce waste (and cost). It was truly shocking. The hotel has staff who I believe want to do a good job but the service always misses the mark. The staff are never attentive or proactive and always look stressed and exasperated. Last time the GM said to email in advance to ensure a better stay this time. I did this and I can assure you this step made no difference whatsoever. Hotel really needs to up its game. It\u2019s such a great building and setting. ",
+            "sentiment_kb": "pos",
+            "sentiment_words": [
+                "hope",
+                "status",
+                "food",
+                "pay",
+                "don",
+                "earn",
+                "strongly",
+                "provide",
+                "spa",
+                "good",
+                "breakfast",
+                "clean",
+                "pastry",
+                "job",
+                "attentive",
+                "advance",
+                "building"
+            ],
+            "sentiment": "pos"
+        },
+        "speaker": "system",
+        "type": "answer"
+    },
+    {
+        "client_msg_id": "61232a5e-69ac-4662-b427-0cc56aa4aa59",
+        "text": "It's great.I love  it stupendous that is really astounding.. I am blown away  by the fact that it has got First aid kits available, Process in place to check health of gests, Hand sanitizer in gest accommodation and common areas, Shared stationery (e.g. printed mens, magazines, pens, paper removed, Staff follow all safety protocols as directed by local athorities facilities in this Hotel room.",
+        "speaker": "user",
+        "type": "answer",
+        "ts": "1558365967.012900",
+        "utterance": {
+            "nlg": "It's great.I love  it stupendous that is really astounding.. I am blown away  by the fact that it has got First aid kits available, Process in place to check health of gests, Hand sanitizer in gest accommodation and common areas, Shared stationery (e.g. printed mens, magazines, pens, paper removed, Staff follow all safety protocols as directed by local athorities facilities in this Hotel room.",
+            "false nlg": "",
+            "images": "null",
+            "kb": "null",
+            "aspect": [
+                "facilities",
+                "place",
+                "health",
+                "hand",
+                "staff",
+                "great",
+                "check",
+                "safety",
+                "paper",
+                "hotel",
+                "room",
+                "aid",
+                "accommodation"
+            ],
+            "sentiment": "pos"
+        }
+    },
+    {
+        "client_msg_id": "35fa384e-654d-4797-b47e-993f8692ef9a",
+        "text": "Thank you for helping me. Your kind words warmed my heart.",
+        "speaker": "user",
+        "type": "exit",
+        "ts": "1558365989.013400",
+        "utterance": {
+            "nlg": "Thank you for helping me. Your kind words warmed my heart.",
+            "false nlg": "",
+            "images": "null",
+            "kb": "null",
+            "aspect": [
+                "kind",
+                "heart",
+                "thank"
+            ],
+            "sentiment": "pos"
+        }
+    },
+    {
+        "client_msg_id": "54d6432b-1bdb-4954-861e-241f8b474eea",
+        "text": "Glad to know it was helpful.  It's my pleasure  instead of You're welcome",
+        "speaker": "system",
+        "type": "exit",
+        "ts": "1558365994.013700",
+        "utterance": {
+            "nlg": "Glad to know it was helpful.  It's my pleasure  instead of You're welcome",
+            "false nlg": "",
+            "images": "null",
+            "kb": "null",
+            "aspect": [
+                "pleasure",
+                "welcome",
+                "glad"
+            ],
+            "sentiment": "pos"
+        }
+    }
+]

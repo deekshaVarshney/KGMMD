@@ -1,0 +1,585 @@
+[
+    {
+        "client_msg_id": "56c63d55-6d24-4119-b24b-cdd155b6619a",
+        "text": "Hi bot. I need some help from you.",
+        "speaker": "user",
+        "type": "greeting",
+        "ts": "1558362868.000600",
+        "utterance": {
+            "nlg": "Hi bot. I need some help from you.",
+            "false nlg": "",
+            "images": "null",
+            "kb": "null",
+            "aspect": [
+                "hi",
+                "need",
+                "help"
+            ],
+            "sentiment": "neg"
+        }
+    },
+    {
+        "client_msg_id": "1b8d70e7-673a-4050-b7fc-0ba7f22db64d",
+        "text": "Hello dear. Oh sure, arelax a moment. I am here to help you.",
+        "speaker": "system",
+        "type": "greeting",
+        "ts": "1558364122.001000",
+        "utterance": {
+            "nlg": "Hello dear. Oh sure, arelax a moment. I am here to help you.",
+            "false nlg": "",
+            "images": "null",
+            "kb": "null",
+            "aspect": [
+                "hello",
+                "moment",
+                "help",
+                "sure"
+            ],
+            "sentiment": "pos"
+        }
+    },
+    {
+        "client_msg_id": "3c48a5c0-f855-4497-82bb-3e8b5f7cebce",
+        "text": "I'm going to look in this for a single room in alleppey. please?",
+        "speaker": "user",
+        "type": "answer",
+        "ts": "1558364332.001700",
+        "utterance": {
+            "nlg": "I'm going to look in this for a single room in alleppey. please?",
+            "false nlg": "",
+            "images": "null",
+            "kb": "null",
+            "aspect": [
+                "please",
+                "room",
+                "look"
+            ],
+            "sentiment": "neg"
+        }
+    },
+    {
+        "client_msg_id": "554c18c4-5cc0-4f64-93dd-db550c0cb541",
+        "text": "Let me figure this out date of travel of yours please! If you can tell me the number of members who come to the hotel, please.",
+        "speaker": "system",
+        "type": "question",
+        "ts": "1558364450.002700",
+        "utterance": {
+            "nlg": "Let me figure this out date of travel of yours please! If you can tell me the number of members who come to the hotel, please.",
+            "false nlg": "",
+            "images": "null",
+            "kb": "null",
+            "aspect": [
+                "please",
+                "number",
+                "come",
+                "date",
+                "hotel",
+                "travel",
+                "members"
+            ],
+            "sentiment": "pos"
+        }
+    },
+    {
+        "client_msg_id": "5a07a19c-8d31-4d61-9829-23e4f254f345",
+        "text": "I want to stay from 27th June to 30th June. 3 Members are there and want a three bedded room. Is it possible?",
+        "speaker": "user",
+        "type": "question",
+        "ts": "1558364848.004600",
+        "utterance": {
+            "nlg": "I want to stay from 27th June to 30th June. 3 Members are there and want a three bedded room. Is it possible?",
+            "false nlg": "",
+            "images": "null",
+            "kb": "null",
+            "aspect": [
+                "want",
+                "june",
+                "stay",
+                "room",
+                "members"
+            ],
+            "sentiment": "neg"
+        }
+    },
+    {
+        "client_msg_id": "cf6a36b7-abc1-4b99-b3f8-dc58d1873646",
+        "text": "Sure, give me time for the best results to present you.",
+        "speaker": "system",
+        "type": "answer",
+        "ts": "1558364915.005200",
+        "utterance": {
+            "nlg": "Sure, give me time for the best results to present you.",
+            "false nlg": "",
+            "images": "null",
+            "kb": "null",
+            "aspect": [
+                "time",
+                "sure",
+                "present",
+                "results"
+            ],
+            "sentiment": "pos"
+        }
+    },
+    {
+        "client_msg_id": "e6c6d79b-74e4-4d8c-bd2b-13c8b1023165",
+        "text": "Do you mind considering these images:  1)   Funky Art Beach House,  2)   Lake Garden Resorts,  3)   Ramada Alleppey,  4)   Aham yoga retreat,  5)   New Seashore Homely Stay, ",
+        "speaker": "system",
+        "type": "answer",
+        "ts": "1558364969.005800",
+        "attachments": {
+            "image_url": [
+                "https://q-cf.bstatic.com/images/hotel/max400/133/133212129.jpg",
+                "https://q-cf.bstatic.com/images/hotel/max400/208/208223915.jpg",
+                "https://r-cf.bstatic.com/images/hotel/max400/834/83484100.jpg",
+                "https://r-cf.bstatic.com/images/hotel/max400/172/172440018.jpg",
+                "https://q-cf.bstatic.com/images/hotel/max400/239/239867924.jpg"
+            ]
+        },
+        "utterance": {
+            "nlg": "Do you mind considering these images:  1)   Funky Art Beach House,  2)   Lake Garden Resorts,  3)   Ramada Alleppey,  4)   Aham yoga retreat,  5)   New Seashore Homely Stay, ",
+            "false nlg": "",
+            "images": [
+                "https://q-cf.bstatic.com/images/hotel/max400/133/133212129.jpg",
+                "https://q-cf.bstatic.com/images/hotel/max400/208/208223915.jpg",
+                "https://r-cf.bstatic.com/images/hotel/max400/834/83484100.jpg",
+                "https://r-cf.bstatic.com/images/hotel/max400/172/172440018.jpg",
+                "https://q-cf.bstatic.com/images/hotel/max400/239/239867924.jpg"
+            ],
+            "kb": "null",
+            "aspect": [
+                "resorts",
+                "ramada",
+                "retreat",
+                "house",
+                "images",
+                "lake",
+                "art",
+                "beach",
+                "mind",
+                "stay",
+                "garden"
+            ],
+            "sentiment": "pos"
+        }
+    },
+    {
+        "client_msg_id": "3d0e4902-fc21-4f38-b5c8-84450dd67bd0",
+        "text": "Ok. Give some images of the last two.",
+        "speaker": "user",
+        "type": "answer",
+        "ts": "1558365029.006600",
+        "utterance": {
+            "nlg": "Ok. Give some images of the last two.",
+            "false nlg": "",
+            "images": "null",
+            "kb": "null",
+            "aspect": [
+                "ok",
+                "images"
+            ],
+            "sentiment": "pos"
+        }
+    },
+    {
+        "client_msg_id": "f2cf5448-f830-48d2-8e40-3b3eb3512b7e",
+        "attachments": {
+            "image_url": [
+                "https://r-cf.bstatic.com/images/hotel/max400/234/234162663.jpg",
+                "https://r-cf.bstatic.com/images/hotel/max400/233/233100347.jpg",
+                "https://r-cf.bstatic.com/images/hotel/max400/234/234162698.jpg",
+                "https://q-cf.bstatic.com/images/hotel/max400/233/233102932.jpg",
+                "https://r-cf.bstatic.com/images/hotel/max400/234/234162696.jpg",
+                "https://q-cf.bstatic.com/images/hotel/max400/234/234162704.jpg",
+                "https://q-cf.bstatic.com/images/hotel/max400/234/234162700.jpg"
+            ]
+        },
+        "text": "These are some images of the various possible orientations",
+        "ts": "1558365151.007100",
+        "speaker": "system",
+        "type": "answer",
+        "utterance": {
+            "nlg": "These are some images of the various possible orientations",
+            "false nlg": "",
+            "images": [
+                "https://r-cf.bstatic.com/images/hotel/max400/234/234162663.jpg",
+                "https://r-cf.bstatic.com/images/hotel/max400/233/233100347.jpg",
+                "https://r-cf.bstatic.com/images/hotel/max400/234/234162698.jpg",
+                "https://q-cf.bstatic.com/images/hotel/max400/233/233102932.jpg",
+                "https://r-cf.bstatic.com/images/hotel/max400/234/234162696.jpg",
+                "https://q-cf.bstatic.com/images/hotel/max400/234/234162704.jpg",
+                "https://q-cf.bstatic.com/images/hotel/max400/234/234162700.jpg"
+            ],
+            "kb": "null",
+            "aspect": [
+                "images"
+            ],
+            "sentiment": "pos"
+        }
+    },
+    {
+        "client_msg_id": "2f38b32c-c47e-4ab9-b5b1-acc75808855b",
+        "text": "These are the images of the last hotel.",
+        "speaker": "system",
+        "type": "answer",
+        "ts": "1558365181.007700",
+        "utterance": {
+            "nlg": "These are the images of the last hotel.",
+            "false nlg": "",
+            "images": "null",
+            "kb": "null",
+            "aspect": [
+                "hotel",
+                "images"
+            ],
+            "sentiment": "neg"
+        }
+    },
+    {
+        "client_msg_id": "ea068d76-bb2c-46d4-ac2c-9730937a6da0",
+        "attachments": {
+            "image_url": [
+                "https://r-cf.bstatic.com/images/hotel/max400/210/210936923.jpg",
+                "https://q-cf.bstatic.com/images/hotel/max400/210/210936950.jpg",
+                "https://r-cf.bstatic.com/images/hotel/max400/210/210936954.jpg",
+                "https://r-cf.bstatic.com/images/hotel/max400/210/210936956.jpg",
+                "https://r-cf.bstatic.com/images/hotel/max400/210/210936960.jpg"
+            ]
+        },
+        "text": "there are some really pictures of the various potential orientations",
+        "ts": "1558365262.008700",
+        "speaker": "system",
+        "type": "answer",
+        "utterance": {
+            "nlg": "there are some really pictures of the various potential orientations",
+            "false nlg": "",
+            "images": [
+                "https://r-cf.bstatic.com/images/hotel/max400/210/210936923.jpg",
+                "https://q-cf.bstatic.com/images/hotel/max400/210/210936950.jpg",
+                "https://r-cf.bstatic.com/images/hotel/max400/210/210936954.jpg",
+                "https://r-cf.bstatic.com/images/hotel/max400/210/210936956.jpg",
+                "https://r-cf.bstatic.com/images/hotel/max400/210/210936960.jpg"
+            ],
+            "kb": "null",
+            "aspect": [
+                "pictures"
+            ],
+            "sentiment": "pos"
+        }
+    },
+    {
+        "client_msg_id": "11074621-12ab-4f24-9561-bc5cbac73b88",
+        "text": "I like the first one",
+        "speaker": "user",
+        "type": "answer",
+        "ts": "1558365283.009300",
+        "utterance": {
+            "nlg": "I like the first one",
+            "false nlg": "",
+            "images": "null",
+            "kb": "null",
+            "aspect": [
+                "one"
+            ],
+            "sentiment": "pos"
+        }
+    },
+    {
+        "client_msg_id": "8591c915-df7f-491c-813c-b3654191353e",
+        "text": "Please inform me about the above  Activities,  Living Area,  features please, in detail of the selected room?",
+        "speaker": "user",
+        "type": "question",
+        "ts": "1558365315.009900",
+        "utterance": {
+            "nlg": "Please inform me about the above  Activities,  Living Area,  features please, in detail of the selected room?",
+            "false nlg": "",
+            "images": "null",
+            "kb": "null",
+            "aspect": [
+                "living",
+                "please",
+                "activities",
+                "features",
+                "area",
+                "room"
+            ],
+            "sentiment": "pos"
+        }
+    },
+    {
+        "client_msg_id": "17a015d7-6f2d-40da-abe4-0d7f9b2a6f91",
+        "text": "The characteristics you considered necessary are:  Activities:Cooking class,  Activities:Tour or class about local culture,  Activities:Walking tours,  Activities:Beach,  Activities:Personal trainer,  Activities:Fitness classes,  Activities:Yoga classes,  Activities:Fitness,  Activities:Full-body massage,  Activities:Hand massage,  Activities:Head massage,  Activities:Couples massage,  Activities:Foot massage,  Activities:Neck massage,  Activities:Back massage,  Activities:Spa/Wellness packages,  Activities:Spa lounge/Relaxation area,  Activities:Beachfront,  Activities:Bikes available (free,  Activities:Private beach area,  Activities:Cycling,  Activities:Canoeing,  Activities:Bicycle rental (additional charge,  Activities:Massage,  Living Area:Sitting area, .",
+        "speaker": "system",
+        "type": "answer",
+        "ts": "1558365449.010400",
+        "utterance": {
+            "nlg": "The characteristics you considered necessary are:  Activities:Cooking class,  Activities:Tour or class about local culture,  Activities:Walking tours,  Activities:Beach,  Activities:Personal trainer,  Activities:Fitness classes,  Activities:Yoga classes,  Activities:Fitness,  Activities:Full-body massage,  Activities:Hand massage,  Activities:Head massage,  Activities:Couples massage,  Activities:Foot massage,  Activities:Neck massage,  Activities:Back massage,  Activities:Spa/Wellness packages,  Activities:Spa lounge/Relaxation area,  Activities:Beachfront,  Activities:Bikes available (free,  Activities:Private beach area,  Activities:Cycling,  Activities:Canoeing,  Activities:Bicycle rental (additional charge,  Activities:Massage,  Living Area:Sitting area, .",
+            "false nlg": "",
+            "images": "null",
+            "kb": "null",
+            "aspect": [
+                "spa",
+                "living",
+                "activities",
+                "body",
+                "lounge",
+                "hand",
+                "characteristics",
+                "relaxation",
+                "wellness",
+                "massage",
+                "packages",
+                "beach",
+                "area",
+                "couples",
+                "culture",
+                "tour",
+                "head"
+            ],
+            "sentiment": "pos"
+        }
+    },
+    {
+        "client_msg_id": "76afc7a6-ec6d-4fb4-ba0e-a0af27a2241f",
+        "text": "Awesome!  wow amazing by the fact that it has got Sitting area facilities in this Hotel room. I find the above item interesting. I am keen in knowing similar ones too,  The building where the guesthouse is located ?",
+        "speaker": "user",
+        "type": "question",
+        "ts": "1558365784.011200",
+        "utterance": {
+            "nlg": "Awesome!  wow amazing by the fact that it has got Sitting area facilities in this Hotel room. I find the above item interesting. I am keen in knowing similar ones too,  The building where the guesthouse is located ?",
+            "false nlg": "",
+            "images": "null",
+            "kb": "null",
+            "aspect": [
+                "area",
+                "facilities",
+                "awesome",
+                "building",
+                "wow",
+                "hotel",
+                "ones",
+                "room",
+                "guesthouse",
+                "item"
+            ],
+            "sentiment": "pos"
+        }
+    },
+    {
+        "client_msg_id": "ea55ee9c-7cf0-4fe5-adab-2f24c2e4e881",
+        "text": "Feel free to take a look at these pictures they are most similarones:  of The building where the guesthouse is located ",
+        "speaker": "system",
+        "type": "answer",
+        "ts": "1558365794.011300",
+        "image_url": [
+            "https://r-cf.bstatic.com/images/hotel/max400/232/232446613.jpg"
+        ],
+        "utterance": {
+            "nlg": "Feel free to take a look at these pictures they are most similarones:  of The building where the guesthouse is located ",
+            "false nlg": "",
+            "images": "null",
+            "kb": "null",
+            "aspect": [
+                "building",
+                "guesthouse",
+                "look",
+                "pictures"
+            ],
+            "sentiment": "pos"
+        }
+    },
+    {
+        "client_msg_id": "a1bdff32-879f-469c-86a5-6e58952c18db",
+        "text": "Fabulous dear robot by the fact that it has got WiFi is available in all areas and is free of charge. facilities in this Hotel room. hey bot, also tell me about the general description about this hotel please.",
+        "speaker": "user",
+        "type": "question",
+        "ts": "1558365818.011500",
+        "utterance": {
+            "nlg": "Fabulous dear robot by the fact that it has got WiFi is available in all areas and is free of charge. facilities in this Hotel room. hey bot, also tell me about the general description about this hotel please.",
+            "false nlg": "",
+            "images": "null",
+            "kb": "null",
+            "aspect": [
+                "facilities",
+                "please",
+                "wifi",
+                "hotel",
+                "room",
+                "description"
+            ],
+            "sentiment": "pos"
+        }
+    },
+    {
+        "client_msg_id": "366f542b-3b23-4eab-a0c1-10972b923ecc",
+        "text": "Accordingly the general specifications are listed as follows  Thumpoly Beach is a 15-minute walk from the guesthouse, while Nehru Trophy Boat Race is 2.6 miles from the property. The nearest airport is Cochin International Airport, 52 miles from Aham yoga retreat.  Located in Alleppey, a 4-minute walk from Alleppey Beach, Aham yoga retreat has accommodations with a restaurant, free private parking, free bikes and a shared lounge. Among the various facilities of this property are a garden, a private beach area and massage services. The property provides a tour desk, ticket service and currency exchange for guests.",
+        "speaker": "system",
+        "type": "answer",
+        "ts": "1558365845.012000",
+        "utterance": {
+            "nlg": "Accordingly the general specifications are listed as follows  Thumpoly Beach is a 15-minute walk from the guesthouse, while Nehru Trophy Boat Race is 2.6 miles from the property. The nearest airport is Cochin International Airport, 52 miles from Aham yoga retreat.  Located in Alleppey, a 4-minute walk from Alleppey Beach, Aham yoga retreat has accommodations with a restaurant, free private parking, free bikes and a shared lounge. Among the various facilities of this property are a garden, a private beach area and massage services. The property provides a tour desk, ticket service and currency exchange for guests.",
+            "false nlg": "",
+            "images": "null",
+            "kb": "null",
+            "aspect": [
+                "facilities",
+                "services",
+                "lounge",
+                "boat",
+                "accommodations",
+                "walk",
+                "area",
+                "guests",
+                "garden",
+                "specifications",
+                "retreat",
+                "airport",
+                "service",
+                "beach",
+                "nehru",
+                "tour",
+                "parking",
+                "massage",
+                "restaurant",
+                "guesthouse",
+                "desk"
+            ],
+            "sentiment": "pos"
+        }
+    },
+    {
+        "utterance": {
+            "nlg": "What was the name of the boat that made sure we had hot kahwa and tea available at all times?",
+            "false nlg": "null",
+            "kb": "We had an extremely satisfying stay aboard the Wangnoo Sheraton Houseboat. The boat captain Mr. Bilal was very hospitable and made sure all our needs were met. The food provided was tasty and the rooms were fresh, clean and well equipped to battle the weather (room heater, water geyser and electric bed warmers). Highly recommended. Also there was a chacha who made sure we had hot kahwa and tea available at all times. ",
+            "images": "null",
+            "aspect": [
+                "name",
+                "sure",
+                "boat",
+                "tea"
+            ],
+            "sentiment_kb": "pos",
+            "sentiment_words": [
+                "captain",
+                "food",
+                "tasty",
+                "clean",
+                "electric"
+            ],
+            "sentiment": "neg"
+        },
+        "speaker": "user",
+        "type": "question"
+    },
+    {
+        "utterance": {
+            "nlg": " Also there was a chacha who made sure we had hot kahwa and tea available at all times.",
+            "false nlg": "null",
+            "images": "null",
+            "aspect": [
+                "sure",
+                "tea"
+            ],
+            "kb": "We had an extremely satisfying stay aboard the Wangnoo Sheraton Houseboat. The boat captain Mr. Bilal was very hospitable and made sure all our needs were met. The food provided was tasty and the rooms were fresh, clean and well equipped to battle the weather (room heater, water geyser and electric bed warmers). Highly recommended. Also there was a chacha who made sure we had hot kahwa and tea available at all times. ",
+            "sentiment_kb": "pos",
+            "sentiment_words": [
+                "captain",
+                "food",
+                "tasty",
+                "clean",
+                "electric"
+            ],
+            "sentiment": "pos"
+        },
+        "speaker": "system",
+        "type": "answer"
+    },
+    {
+        "utterance": {
+            "nlg": "What was the name of the first time I booked in London?",
+            "false nlg": "null",
+            "kb": "This was my first time in London. I booked in this hotel Cause it was the nearest hotel to Harrods, without any idea about it, but they surprised me. quick-service and smiled workers were great, also I liked the decoration that mixed between vintage and in modern life!",
+            "images": "null",
+            "aspect": [
+                "time",
+                "london",
+                "name"
+            ],
+            "sentiment_kb": "pos",
+            "sentiment": "pos"
+        },
+        "speaker": "user",
+        "type": "question"
+    },
+    {
+        "utterance": {
+            "nlg": "This was my first time in London.",
+            "false nlg": "null",
+            "images": "null",
+            "aspect": [
+                "time",
+                "london"
+            ],
+            "kb": "This was my first time in London. I booked in this hotel Cause it was the nearest hotel to Harrods, without any idea about it, but they surprised me. quick-service and smiled workers were great, also I liked the decoration that mixed between vintage and in modern life!",
+            "sentiment_kb": "pos",
+            "sentiment": "pos"
+        },
+        "speaker": "system",
+        "type": "answer"
+    },
+    {
+        "client_msg_id": "61232a5e-69ac-4662-b427-0cc56aa4aa59",
+        "text": "It's great.I love  it awe-inspiring! wow that is so Astonishing. I am amazed",
+        "speaker": "user",
+        "type": "answer",
+        "ts": "1558365967.012900",
+        "utterance": {
+            "nlg": "It's great.I love  it awe-inspiring! wow that is so Astonishing. I am amazed",
+            "false nlg": "",
+            "images": "null",
+            "kb": "null",
+            "aspect": [
+                "great",
+                "wow"
+            ],
+            "sentiment": "pos"
+        }
+    },
+    {
+        "client_msg_id": "35fa384e-654d-4797-b47e-993f8692ef9a",
+        "text": "Thank you for helping me. I value and respect your opinion.",
+        "speaker": "user",
+        "type": "exit",
+        "ts": "1558365989.013400",
+        "utterance": {
+            "nlg": "Thank you for helping me. I value and respect your opinion.",
+            "false nlg": "",
+            "images": "null",
+            "kb": "null",
+            "aspect": [
+                "thank",
+                "value"
+            ],
+            "sentiment": "pos"
+        }
+    },
+    {
+        "client_msg_id": "54d6432b-1bdb-4954-861e-241f8b474eea",
+        "text": "Glad to know it was helpful. I am happy to help",
+        "speaker": "system",
+        "type": "exit",
+        "ts": "1558365994.013700",
+        "utterance": {
+            "nlg": "Glad to know it was helpful. I am happy to help",
+            "false nlg": "",
+            "images": "null",
+            "kb": "null",
+            "aspect": [
+                "help",
+                "glad"
+            ],
+            "sentiment": "pos"
+        }
+    }
+]
